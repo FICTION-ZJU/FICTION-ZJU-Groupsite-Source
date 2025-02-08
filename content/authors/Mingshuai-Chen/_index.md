@@ -90,6 +90,37 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mingshuai-chen-481838aa/
+
+academic_services:
+  # TODO: ICFEM'25, Special Issue...
+  editor_committee_chair:
+    - service: Workshop Chair of [ICFEM 2025]()
+      time: Nov. 2025
+    - service: Guest Editor of Special Issue on Formal Methods and Applications of Journal of Software
+      time: Nov. 2024
+    - service: Co-Chair of Forum on Formal Methods and Applications at [ChinaSoft 2024](https://chinasoft.ccf.org.cn/)
+      time: Nov. 2024
+    - service: Co-Chair of Forum on Theor. Eng. Software under Uncertainty at [ChinaSoft 2024](https://chinasoft.ccf.org.cn/)
+      time: Nov. 2024
+  committee_member:
+    - service: Senior Member of the [China Computer Federation (CCF)](https://www.ccf.org.cn/en/)
+    - service: Executive Member of [CCF Technical Committee](https://www.ccf.org.cn/en/About_CCF/Technical_Committees/) on Formal Methods
+    - service: Member of [CCF Technical Committee](https://www.ccf.org.cn/en/About_CCF/Technical_Committees/) on Theoretical Computer Science
+    - service: Reviewer Panel of [Mathematical Reviews](https://www.ams.org/publications/math-reviews/math-reviews)
+    # TODO: OOPSLA'26, TACAS'26
+    - service: "Program/Review Committee Member of
+      [OOPSLA 2026](),
+      [TACAS 2026]()/[2025](https://etaps.org/2025/conferences/tacas/),
+      [ATVA 2025](https://conf.researchr.org/home/atva-2025),
+      [TASE 2025](https://cyprusconferences.org/tase2025/),
+      [FSEN 2025](https://conf.researchr.org/home/fsen-2025),
+      [SETTA 2024](https://setta2024.cs.cityu.edu.hk/),
+      [RTCSA 2024](https://rtcsa2024.github.io/)/[2021](https://rtcsa2021.github.io/),
+      [ICWS 2024 (SRG Workshop)](https://icws.conferences.computer.org/2024/srg-workshop/),
+      [SYNASC 2022 (Logic and Programming Track)](https://synasc.ro/2022/logic-and-programming/)"
+    - service: "Repeatability/Artifact Evaluation Committee Member of
+      [ADHS 2021](https://sites.uclouvain.be/adhs21/),
+      [VMCAI 2021](https://popl21.sigplan.org/home/VMCAI-2021)"
 ---
 
 I am a US-equivalent tenure-track Assistant Professor leading the [Formal Verification Group](/) at Zhejiang University. Prior to joining ZJU, I worked as a Postdoctoral Researcher at the Software Modeling and Verification Group headed by Prof. Joost-Pieter Katoen at RWTH Aachen University. In 2019, I received the Ph.D. degree in computer science from the Institute of Software, Chinese Academy of Sciences under the supervision of Prof. Naijun Zhan and co-supervision of Prof. Martin Fränzle.

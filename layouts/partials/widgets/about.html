@@ -130,3 +130,30 @@
     </div>
   </div>
 </div>
+
+{{ with $person.academic_services }}
+<div class="article-widget">
+  <h3>Academic Services</h3>
+  <p>Welcome to submit your work to the following [[ TBD: conferences ]]!</p>  
+  {{ if (len .editor_committee_chair) }}
+    <div class="hr-light"></div>
+    <h4>Editor & Committee Chair</h4>
+    <ol>
+      {{ range .editor_committee_chair }}
+      <li>{{ .service | markdownify }}</li>
+      {{ end }}
+    </ol>
+  {{ end }}
+
+  {{ if (len .committee_member) }}
+    <div class="hr-light"></div>
+    <h4>Committee Member</h4>
+    <ol>
+      {{ range .committee_member }}
+      <li>{{ .service | markdownify }}</li>
+      {{ end }}
+    </ol>
+  {{ end }}
+
+</div>
+{{ end }}
