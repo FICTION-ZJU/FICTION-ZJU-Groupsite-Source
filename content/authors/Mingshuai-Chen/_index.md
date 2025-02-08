@@ -94,23 +94,23 @@ social:
 academic_services:
   # TODO: ICFEM'25, Special Issue...
   editor_committee_chair:
-    - service: Workshop Chair of [ICFEM 2025]()
+    - service: Workshop Chair of [ICFEM 2025](https://icfem2025.github.io/)
       time: Nov. 2025
-    - service: Guest Editor of Special Issue on Formal Methods and Applications of Journal of Software
+    - service: Guest Editor of [Special Issue on Formal Methods and Applications of Journal of Software](https://www.jos.org.cn/jos/news/view/20241211090050001)
       time: Nov. 2024
     - service: Co-Chair of Forum on Formal Methods and Applications at [ChinaSoft 2024](https://chinasoft.ccf.org.cn/)
       time: Nov. 2024
-    - service: Co-Chair of Forum on Theor. Eng. Software under Uncertainty at [ChinaSoft 2024](https://chinasoft.ccf.org.cn/)
+    - service: Co-Chair of Forum on Theory and Engineering of Software under Uncertainty at [ChinaSoft 2024](https://chinasoft.ccf.org.cn/)
       time: Nov. 2024
   committee_member:
     - service: Senior Member of the [China Computer Federation (CCF)](https://www.ccf.org.cn/en/)
-    - service: Executive Member of [CCF Technical Committee](https://www.ccf.org.cn/en/About_CCF/Technical_Committees/) on Formal Methods
-    - service: Member of [CCF Technical Committee](https://www.ccf.org.cn/en/About_CCF/Technical_Committees/) on Theoretical Computer Science
+    - service: Executive Member of CCF Technical Committee on Formal Methods
+    - service: Member of CCF Technical Committee on Theoretical Computer Science
     - service: Reviewer Panel of [Mathematical Reviews](https://www.ams.org/publications/math-reviews/math-reviews)
     # TODO: OOPSLA'26, TACAS'26
     - service: "Program/Review Committee Member of
-      [OOPSLA 2026](),
-      [TACAS 2026]()/[2025](https://etaps.org/2025/conferences/tacas/),
+      OOPSLA 2026,
+      [TACAS](https://tacas.info/) 2026/[2025](https://etaps.org/2025/conferences/tacas/),
       [ATVA 2025](https://conf.researchr.org/home/atva-2025),
       [TASE 2025](https://cyprusconferences.org/tase2025/),
       [FSEN 2025](https://conf.researchr.org/home/fsen-2025),
