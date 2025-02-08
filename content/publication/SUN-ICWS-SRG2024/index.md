@@ -17,7 +17,7 @@ authors:
 date: '2024-06-05T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: ''
+doi: '10.1109/ICWS62655.2024.00046'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
