@@ -92,7 +92,6 @@ social:
     link: https://www.linkedin.com/in/mingshuai-chen-481838aa/
 
 academic_services:
-  # TODO: ICFEM'25, Special Issue...
   editor_committee_chair:
     - service: Workshop Chair of [ICFEM 2025](https://icfem2025.github.io/)
       time: Nov. 2025
