@@ -78,6 +78,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Mingshuai_Chen
+  - icon: semantic-scholar
+    icon_pack: ai
+    link: https://www.semanticscholar.org/author/Mingshuai-Chen/2855195
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-9663-7441
