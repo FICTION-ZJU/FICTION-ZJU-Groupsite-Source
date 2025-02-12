@@ -109,7 +109,7 @@ academic_services:
     # TODO: OOPSLA'26, TACAS'26
     - service: "Program/Review Committee Member of
       OOPSLA 2026,
-      [TACAS](https://tacas.info/) 2026/[2025](https://etaps.org/2025/conferences/tacas/),
+      [TACAS](https://etaps.org/about/tacas/) 2026/[2025](https://etaps.org/2025/conferences/tacas/),
       [ATVA 2025](https://conf.researchr.org/home/atva-2025),
       [TASE 2025](https://cyprusconferences.org/tase2025/),
       [FSEN 2025](https://conf.researchr.org/home/fsen-2025),
