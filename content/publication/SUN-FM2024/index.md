@@ -19,7 +19,7 @@ authors:
 date: '2024-06-11T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: ''
+doi: '10.1007/978-3-031-71162-6_28'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -46,10 +46,12 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
-#links:
-#  - name: ""
-#    url: ""
-url_pdf: 'https://arxiv.org/abs/2405.11535v1'
+links:
+  - icon_pack: fas
+    icon: stamp
+    name: "Artifact Evaluated"
+    url: "https://doi.org/10.5281/zenodo.12532389"
+url_pdf: '/papers/FM2024.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
