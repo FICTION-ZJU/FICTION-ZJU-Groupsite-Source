@@ -1,6 +1,7 @@
 ---
 title: "The Self-Improvement Paradox: Can Language Models Bootstrap Reasoning Capabilities without External Scaffolding?"
 date: 2025-02-26
+publishDate: 2025-02-24
 ---
 
 

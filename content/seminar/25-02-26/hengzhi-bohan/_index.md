@@ -1,6 +1,7 @@
 ---
 title: "Hybrid System Identification"
 date: 2025-02-26
+publishDate: 2025-02-24
 ---
 
 

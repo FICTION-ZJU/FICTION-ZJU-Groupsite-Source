@@ -1,6 +1,7 @@
 ---
 title: Coinduction All the Way Up
 date: 2025-02-26
+publishDate: 2025-02-24
 ---
 
 **Presenter**: {{% mention "Linyu Yang" %}}

@@ -1,6 +1,7 @@
 ---
 title: "Practice in OS Kernel Verification"
 date: 2025-02-26
+publishDate: 2025-02-24
 ---
 
 

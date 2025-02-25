@@ -1,6 +1,7 @@
 ---
 title: "Causation Monitoring of Signal Temporal Logic and Its Application to Reinforcement Learning"
 date: 2025-02-26
+publishDate: 2025-02-24
 ---
 
 
