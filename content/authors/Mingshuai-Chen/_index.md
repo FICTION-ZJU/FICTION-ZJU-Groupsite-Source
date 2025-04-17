@@ -113,6 +113,7 @@ academic_services:
     - service: "Program/Review Committee Member of
       OOPSLA 2026,
       [TACAS](https://etaps.org/about/tacas/) 2026/[2025](https://etaps.org/2025/conferences/tacas/),
+      [ICFEM 2025](https://icfem2025.github.io/),
       [ATVA 2025](https://conf.researchr.org/home/atva-2025),
       [TASE 2025](https://cyprusconferences.org/tase2025/),
       [FSEN 2025](https://conf.researchr.org/home/fsen-2025),
