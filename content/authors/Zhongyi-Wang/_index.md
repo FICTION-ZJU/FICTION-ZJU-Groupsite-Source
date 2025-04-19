@@ -18,16 +18,16 @@ names:
 superuser: false
 
 # Role/position
-role: M.Sc. Candidate
+role: Ph.D. Candidate
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Master Students
+  - Ph.D. Students
 
 department:
-  - School of Software Technology
+  - College of Computer Science and Technology
 
 # Organizations/Affiliations
 organizations:
@@ -54,9 +54,12 @@ interests:
 
 education:
   courses:
+    - course: Ph.D. in Software Engineering
+      institution: Zhejiang University
+      year: 2028
     - course: M.Sc. in Software Engineering
       institution: Zhejiang University
-      year: 2026
+      year: 2025
     - course: B.Sc. in Bioinformatics
       institution: Shanghai Jiao Tong University
       year: 2023
@@ -70,4 +73,4 @@ social:
     link: https://github.com/wzyb-52
 ---
 
-I am currently a Master student at the [Formal Verification Group](/). My research focuses on static program analysis where, in particular, I develop formal techniques for automating the procedure of abstract interpretation for analyzing C/C++ programs.
+I am currently a Ph.D. student at the [Formal Verification Group](/). My research focuses on static program analysis where, in particular, I develop formal techniques for automating the procedure of abstract interpretation for analyzing C/C++ programs.
