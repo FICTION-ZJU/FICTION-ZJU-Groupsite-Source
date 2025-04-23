@@ -15,7 +15,7 @@ authors:
   - Shengchao Qin
   - Xiao Yi
   - Jianwei Yin
-author_notes:
+#author_notes:
   # - 'equal contribution'
 
 date: '2025-04-23T00:00:00Z'
