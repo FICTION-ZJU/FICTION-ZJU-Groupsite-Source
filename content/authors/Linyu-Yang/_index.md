@@ -58,8 +58,8 @@ education:
     - course: Ph.D. in Computer Science
       institution: Zhejiang University
       year: 2029
-    - course: B.Sc. in Information Engineering
-      institution: Nanjing University of Information Science and Technology
+    - course: B.E. in Information Engineering
+      institution: Nanjing University of Information Science & Technology
       year: 2024
 
 social:
@@ -71,4 +71,4 @@ social:
     link: https://github.com/godalin
 ---
 
-I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. The goal of my research is to develop automated techniques for adaptively tuning parameters of static analyzers. I will join the group as a Ph.D. Candidate in September 2024.
+I am currently pursuing a Ph.D. degree at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen. My research interest lies in programming language theory, static analysis and theorem proving. I am currently focusing on the compositional theory of programming languages, including their formal semantics and logic, with the help of type-theory-based proof assistants.
