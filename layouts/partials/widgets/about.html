@@ -150,7 +150,8 @@
 
 {{ with $person.academic_services }}
 <div class="article-widget">
-  <h3>Academic Services</h3>
+  <!-- <h3>Academic Services</h3> -->
+  <h3>{{ i18n "academic_services" | markdownify }}</h3>
   <p> <i class="fa-solid fa-bullhorn"></i> I serve on the following academic committees. Consider submit your work to one of the venues!</p>
   {{ if (len .editor_committee_chair) }}
     <div class="hr-light"></div>

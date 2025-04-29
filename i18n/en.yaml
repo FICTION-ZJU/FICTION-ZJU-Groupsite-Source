@@ -75,11 +75,14 @@
 - id: interests
   translation: Interests
 
+- id: employment
+  translation: Employment
+
 - id: education
   translation: Education
 
-- id: employment
-  translation: Employment
+- id: academic_services
+  translation: Academic Services
 
 - id: user_profile_latest
   translation: Latest
