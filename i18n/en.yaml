@@ -170,7 +170,7 @@
   translation: Book
 
 - id: pub_book_section
-  translation: Book section
+  translation: Book chapter
 
 - id: pub_thesis
   translation: Thesis
