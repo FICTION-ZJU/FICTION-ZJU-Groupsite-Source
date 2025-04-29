@@ -32,7 +32,7 @@ publication_types: ['1']
 publication: In *ICWS (SRG) 2024*
 publication_short: In *ICWS (SRG) 2024*
 
-abstract: Artificial intelligence is rapidly encroaching on the field of service regulation. This work-in-progress article presents the design principles behind Horae, a unified specification language to model multimodal regulation rules across a diverse set of domains. We show how Horae facilitates an intelligent service regulation pipeline by further exploiting a fine-tuned large language model named RuleGPT that automates the Horae modeling process, thereby yielding an end-to-end framework for fully automated intelligent service regulation.
+abstract: Artificial intelligence is rapidly encroaching on the field of service regulation. This work-in-progress article presents the design principles behind <span style="font-variant:small-caps;">Horae</span>, a unified specification language to model multimodal regulation rules across a diverse set of domains. We show how <span style="font-variant:small-caps;">Horae</span> facilitates an intelligent service regulation pipeline by further exploiting a fine-tuned large language model named RuleGPT that automates the <span style="font-variant:small-caps;">Horae</span> modeling process, thereby yielding an end-to-end framework for fully automated intelligent service regulation.
 
 tags:
   - service computing
