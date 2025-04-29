@@ -1,21 +1,21 @@
 ---
-title: 'On the Almost-Sure Termination of Probabilistic Counter Programs'
-subtitle: ''
+title: 'Fixed-Point Reasoning for Stochastic Systems'
+subtitle: 'A Survey of Recent Advancements and Open Challenges'
 
-featured: true
+featured: false
 draft: false
 
 authors:
-    - Sergei Novozhilov
-    - Mingqi Yang
-    - Mingshuai Chen
-    - Zhiyang Li
-    - Jianwei Yin
-author_notes:
-    - 'equal contribution'
-    - 'equal contribution'
+  - Zhiyang Li
+  - Mingqi Yang
+  - Shenghua Feng
+  - Mingshuai Chen
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2025-07-21T00:00:00Z'
+date: '2025-02-28T00:00:00Z'
+#date: '2015-09-01T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
 doi: ''
@@ -27,33 +27,30 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
-publication: In *CAV 2025*
-publication_short: In *CAV 2025*
+publication: '*Design and Verification of Cyber-Physical Systems: From Theory to Applications*'
+publication_short: "*MF's Festschrift*"
 
-abstract: This paper introduces $k$-d PCPs -- the class of *probabilistic counter programs* with $k \in \mathbb{N}$ counter variables inducing possibly infinite-state Markov chains. We show that the universal (positive) almost-sure termination problem is *undecidable* for $k$-d PCPs in general, yet *decidable* for $1$-d PCPs. We present an efficient decision procedure for the latter leveraging the technique of *Markov chain finitization*. Moreover, we identify several classes of $k$-d PCPs that are reducible to $1$-d PCPs -- thus their termination properties can be inferred automatically. Experiments demonstrate that our decision procedure can certify (positive) almost-sure termination -- without resorting to invariants or supermartingales -- of non-trivial probabilistic programs beyond the scope of existing tools.
+abstract: Fixed points are mathematical objects that are commonly employed in computer science to characterize key properties of iterative or cyclic behaviors, e.g., unbounded loops and recursions in programs or cycles in transition systems. Reasoning about such behaviors is arguably the hardest task in formal verification. The problem is even harder for stochastic systems as it often amounts to inferring quantitative fixed points that are highly intractable in practice. This article surveys recent advancements in fixed-point reasoning for stochastic systems modeled as probabilistic programs, probabilistic transition systems, and stochastic hybrid systems and outlines potential directions for future research thereof. The core of our results is the *fixed-point reasoning landscape for stochastic systems*, where we focus on formal techniques that either (i) establish sound over-/under-approximations of quantitative fixed points; or (ii) infer the exact fixed points for a restricted class of systems.
 
 tags:
   - probabilistic programs
+  - stochastic systems
   - quantitative reasoning
   - verification
-  - termination
+  - fixed point theory
   - Markov models
   - equation systems
-  - decidability
-  - reachability
   - uncertainty
 
 # Summary. An optional shortened abstract.
 summary: ''
 
 # links:
-#   - icon_pack: fas
-#     icon: stamp
-#     name: "Artifact Evaluated"
-#     url: "https://github.com/polka125/1d-counter-programs-code"
+# - name: ""
+#   url: ""
 url_pdf: ''
 url_code: ''
 url_dataset: ''

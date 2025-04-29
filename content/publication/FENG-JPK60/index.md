@@ -41,7 +41,7 @@ tags:
   - verification
   - probabilistic model checking
   - fixed point theory
-  - Markov chains
+  - Markov models
   - equation systems
   - uncertainty
 
