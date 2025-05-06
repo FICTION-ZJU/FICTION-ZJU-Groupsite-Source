@@ -50,7 +50,7 @@ highlight_name: false
 
 interests:
   - Formal Methods
-  - Programming Language Theory
+  - Programming Theory/Languages
   - Program Verification
   - Theorem Proving
 
@@ -75,5 +75,5 @@ social:
     link: https://www.linkedin.com/in/yazhoutang/
 ---
 
-I am currently a master student at the [Formal Verification Group](/). My research areas include **Formal Methods**, **Program Verification**, **Programming Language Theory**, and **Theorem Proving**. I also have a strong interest in compilers and mathematical logic.
+I am currently a Master student at the [Formal Verification Group](/). My research areas include **Formal Methods**, **Program Verification**, **Programming Theory/Languages**, and **Theorem Proving**. I also have a strong interest in compilers and mathematical logic.
 
