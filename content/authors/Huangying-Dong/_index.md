@@ -67,6 +67,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:hydongegal@foxmail.com
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/1want2sleep
 ---
 
 I am currently a Ph.D. student at the [Formal Verification Group](/). My research interest lies in the intersection of formal methods and cyber-physical systems where, in particular, I develop (semi-)formal techniques for the synthesis of complex hybrid system models.

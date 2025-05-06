@@ -6,6 +6,10 @@ title: Mingshuai Chen
 authors:
   - Mingshuai-Chen
 
+# Last name (used for sorting authors)
+lastname:
+  - Chen
+
 #Author Names (alternative spellings etc)
 names:
 - Mingshuai Chen

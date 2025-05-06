@@ -6,6 +6,10 @@ title: Mingqi Yang
 authors:
   - Mingqi-Yang
 
+# Last name (used for sorting authors)
+lastname:
+  - Yang
+
 #Author Names (alternative spellings etc)
 names:
   - Mingqi Yang

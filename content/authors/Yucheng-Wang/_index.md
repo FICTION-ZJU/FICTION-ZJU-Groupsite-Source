@@ -47,6 +47,7 @@ highlight_name: false
 
 interests:
   - Formal Verification of Operating Systems
+  - Theorem Proving
   - Programming Theory/Languages
 
 education:
@@ -67,4 +68,4 @@ social:
     link: https://github.com/tltwyc
 ---
 
-I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen and going to be a M.Sc. Candidate in September, 2025. My research interest lies in programming theory and formal verification of operating systems.
+I am currently working on my Bachelor's thesis at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen and am going to be a M.Sc. Candidate in September, 2025. My research interest lies in programming theory and formal verification of operating systems.
