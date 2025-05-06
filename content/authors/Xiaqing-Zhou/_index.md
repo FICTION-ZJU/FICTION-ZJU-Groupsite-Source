@@ -6,6 +6,10 @@ title: Xiaqing Zhou
 authors:
   - Xiaqing-Zhou
 
+# Last name (used for sorting authors)
+lastname:
+  - Zhou
+
 #Author Names (alternative spellings etc)
 names:
     - Xiaqing Zhou

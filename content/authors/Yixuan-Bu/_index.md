@@ -6,6 +6,10 @@ title: Yixuan Bu
 authors:
   - Yixuan-Bu
 
+# Last name (used for sorting authors)
+lastname:
+  - Bu
+
 #Author Names (alternative spellings etc)
 names:
     - Yixuan Bu

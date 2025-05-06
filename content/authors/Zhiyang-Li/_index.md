@@ -6,6 +6,10 @@ title: Zhiyang Li
 authors:
   - Zhiyang-Li
 
+# Last name (used for sorting authors)
+lastname:
+  - Li
+
 #Author Names (alternative spellings etc)
 names:
   - Zhiyang Li

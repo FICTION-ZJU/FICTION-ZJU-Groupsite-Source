@@ -6,6 +6,10 @@ title: Zhiang Wu
 authors:
   - Zhiang-Wu
 
+# Last name (used for sorting authors)
+lastname:
+  - Wu
+
 #Author Names (alternative spellings etc)
 names:
     - Zhiang Wu

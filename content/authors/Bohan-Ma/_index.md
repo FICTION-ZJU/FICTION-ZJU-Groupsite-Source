@@ -6,6 +6,10 @@ title: Bohan Ma
 authors:
   - Bohan-Ma
 
+# Last name (used for sorting authors)
+lastname:
+  - Ma
+
 #Author Names (alternative spellings etc)
 names:
   - Bohan Ma
@@ -51,7 +55,7 @@ interests:
   - Quantum Computing
   - Theorem Proving
   - Hybrid Systems
-  
+
 
 education:
   courses:

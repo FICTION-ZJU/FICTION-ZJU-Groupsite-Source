@@ -6,6 +6,10 @@ title: Yiyang Zhou
 authors:
   - Yiyang-Zhou
 
+# Last name (used for sorting authors)
+lastname:
+  - Zhou
+
 #Author Names (alternative spellings etc)
 names:
   - Yiyang Zhou
@@ -49,7 +53,7 @@ interests:
   - Programming Theory/Languages
   - Formal Methods
   - Quantum Communication Protocols
-  
+
 
 
 education:

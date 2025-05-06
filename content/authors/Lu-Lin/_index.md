@@ -6,6 +6,10 @@ title: Lu Lin
 authors:
   - Lu-Lin
 
+# Last name (used for sorting authors)
+lastname:
+  - Lin
+
 #Author Names (alternative spellings etc)
 names:
   - Lu Lin

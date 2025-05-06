@@ -6,6 +6,10 @@ title: Huangying Dong
 authors:
   - Huangying-Dong
 
+# Last name (used for sorting authors)
+lastname:
+  - Dong
+
 #Author Names (alternative spellings etc)
 names:
   - Huangying Dong

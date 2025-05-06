@@ -6,6 +6,10 @@ title: Tengjie Lin
 authors:
   - Tengjie-Lin
 
+# Last name (used for sorting authors)
+lastname:
+  - Lin
+
 #Author Names (alternative spellings etc)
 names:
   - Tengjie Lin
@@ -51,7 +55,7 @@ interests:
   - Static Analysis
   - Formal Methods
   - Datalog
-  
+
 
 
 education:

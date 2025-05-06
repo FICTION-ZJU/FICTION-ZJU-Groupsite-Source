@@ -6,6 +6,10 @@ title: Yutao Sun
 authors:
   - Yutao-Sun
 
+# Last name (used for sorting authors)
+lastname:
+  - Sun
+
 #Author Names (alternative spellings etc)
 names:
     - Yutao Sun

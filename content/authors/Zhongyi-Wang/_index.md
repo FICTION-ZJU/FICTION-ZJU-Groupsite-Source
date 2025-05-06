@@ -6,6 +6,10 @@ title: Zhongyi Wang
 authors:
   - Zhongyi-Wang
 
+# Last name (used for sorting authors)
+lastname:
+  - Wang
+
 #Author Names (alternative spellings etc)
 names:
   - Zhongyi Wang
