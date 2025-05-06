@@ -32,9 +32,7 @@
     </div>
     {{end}}
 
-    <!-- sort authors alphabetically by lastname -->
     {{ range sort $query ".Params.lastname" "asc" }}
-    <!--{{ range $query }}-->
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
     {{/* Get link to user's profile page. */}}
     {{ $link := "" }}

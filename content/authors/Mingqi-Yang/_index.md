@@ -69,6 +69,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:mingqiyang@zju.edu.cn
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/V-star-ai
 ---
 
 I am currently a Ph.D. student at the [Formal Verification Group](/) where my research interest falls in the intersection of formal methods and artificial intelligence. I develop semi-formal techniques for synthesizing loopy probabilistic programs leveraging neuro-symbolic approaches.
