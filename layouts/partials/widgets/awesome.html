@@ -32,7 +32,7 @@
     </div>
     {{end}}
 
-    {{ range sort $query ".Params.lastname" "asc" }}
+    {{ range sort $query ".Params.lastname" "desc" }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
     {{/* Get link to user's profile page. */}}
     {{ $link := "" }}
