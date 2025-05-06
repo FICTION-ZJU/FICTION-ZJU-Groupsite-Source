@@ -6,9 +6,8 @@ title: Yucheng Wang
 authors:
   - Yucheng-Wang
 
-# Last name (used for sorting authors)
-lastname:
-  - Wang
+# Full name (used for sorting authors)
+fullname: Wang-Yucheng
 
 #Author Names (alternative spellings etc)
 names:

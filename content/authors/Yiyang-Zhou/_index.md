@@ -6,9 +6,8 @@ title: Yiyang Zhou
 authors:
   - Yiyang-Zhou
 
-# Last name (used for sorting authors)
-lastname:
-  - Zhou
+# Full name (used for sorting authors)
+fullname: Zhou-Yiyang
 
 #Author Names (alternative spellings etc)
 names:

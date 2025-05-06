@@ -6,9 +6,8 @@ title: Siyuan Zhu
 authors:
   - Siyuan-Zhu
 
-# Last name (used for sorting authors)
-lastname:
-  - Zhu
+# Full name (used for sorting authors)
+fullname: Zhu-Siyuan
 
 #Author Names (alternative spellings etc)
 names:

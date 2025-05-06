@@ -6,9 +6,8 @@ title: He Li
 authors:
   - He-Li
 
-# Last name (used for sorting authors)
-lastname:
-  - Li
+# Full name (used for sorting authors)
+fullname: Li-He
 
 #Author Names (alternative spellings etc)
 names:

@@ -6,9 +6,8 @@ title: Tengjie Lin
 authors:
   - Tengjie-Lin
 
-# Last name (used for sorting authors)
-lastname:
-  - Lin
+# Full name (used for sorting authors)
+fullname: Lin-Tengjie
 
 #Author Names (alternative spellings etc)
 names:

@@ -6,9 +6,8 @@ title: Hengzhi Yu
 authors:
   - Hengzhi-Yu
 
-# Last name (used for sorting authors)
-lastname:
-  - Yu
+# Full name (used for sorting authors)
+fullname: Yu-Hengzhi
 
 #Author Names (alternative spellings etc)
 names:

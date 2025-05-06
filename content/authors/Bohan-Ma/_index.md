@@ -6,9 +6,8 @@ title: Bohan Ma
 authors:
   - Bohan-Ma
 
-# Last name (used for sorting authors)
-lastname:
-  - Ma
+# Full name (used for sorting authors)
+fullname: Ma-Bohan
 
 #Author Names (alternative spellings etc)
 names:

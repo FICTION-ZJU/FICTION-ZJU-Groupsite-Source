@@ -6,9 +6,8 @@ title: Pengcheng Wang
 authors:
   - Pengcheng-Wang
 
-# Last name (used for sorting authors)
-lastname:
-  - Wang
+# Full name (used for sorting authors)
+fullname: Wang-Pengcheng
 
 #Author Names (alternative spellings etc)
 names:

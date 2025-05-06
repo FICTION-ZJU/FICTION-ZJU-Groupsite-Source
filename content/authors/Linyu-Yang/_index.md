@@ -6,9 +6,8 @@ title: Linyu Yang
 authors:
   - Linyu-Yang
 
-# Last name (used for sorting authors)
-lastname:
-  - Yang
+# Full name (used for sorting authors)
+fullname: Yang-Linyu
 
 #Author Names (alternative spellings etc)
 names:

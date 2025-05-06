@@ -6,9 +6,8 @@ title: Sergei Novozhilov
 authors:
   - Sergei-Novozhilov
 
-# Last name (used for sorting authors)
-lastname:
-  - Novozhilov
+# Full name (used for sorting authors)
+fullname: Novozhilov-Sergei
 
 #Author Names (alternative spellings etc)
 names:
