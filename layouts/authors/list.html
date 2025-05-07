@@ -52,94 +52,97 @@
       {{end}}
     {{ end }}
 
+    {{ $totalLength := add (len $col_book) (len $col_thesis) (len $col_chapter) (len $col_journal) (len $col_conference) (len $col_report) (len $col_preprint) (len $col_patent) }}
+    {{ if $totalLength }}
     <div class="article-widget">
-    {{ if .File }}
-      <h3>Publications</h3>
-    {{ else }}
-      <h3>Publications with FICTION</h3>
-    {{ end }}
+      {{ if .File }}
+        <h3>Publications</h3>
+      {{ else }}
+        <h3>Publications with FICTION</h3>
+      {{ end }}
 
-    {{ if (len $col_book) }}
-      <div class="hr-light"></div>
-      <h4>Books</h4>
-      <ol>
-        {{ range $col_book }}
-          <li>{{ partial "li_citation" . }}</li>
-        {{ end }}
-      </ol>
-    {{ end }}
+      {{ if (len $col_book) }}
+        <div class="hr-light"></div>
+        <h4>Books</h4>
+        <ol>
+          {{ range $col_book }}
+            <li>{{ partial "li_citation" . }}</li>
+          {{ end }}
+        </ol>
+      {{ end }}
 
-    {{ if (len $col_thesis) }}
-      <div class="hr-light"></div>
-      <h4>Dissertation</h4>
-      <ol>
-        {{ range $col_thesis }}
-          <li>{{ partial "li_citation" . }}</li>
-        {{ end }}
-      </ol>
-    {{ end }}
+      {{ if (len $col_thesis) }}
+        <div class="hr-light"></div>
+        <h4>Dissertation</h4>
+        <ol>
+          {{ range $col_thesis }}
+            <li>{{ partial "li_citation" . }}</li>
+          {{ end }}
+        </ol>
+      {{ end }}
 
-    {{ if (len $col_chapter) }}
-      <div class="hr-light"></div>
-      <h4>Book Chapters</h4>
-      <ol>
-        {{ range $col_chapter }}
-          <li>{{ partial "li_citation" . }}</li>
-        {{ end }}
-      </ol>
-    {{ end }}
+      {{ if (len $col_chapter) }}
+        <div class="hr-light"></div>
+        <h4>Book Chapters</h4>
+        <ol>
+          {{ range $col_chapter }}
+            <li>{{ partial "li_citation" . }}</li>
+          {{ end }}
+        </ol>
+      {{ end }}
 
-    {{ if (len $col_journal) }}
-      <div class="hr-light"></div>
-      <h4>Journal Articles</h4>
-      <ol>
-        {{ range $col_journal }}
-          <li>{{ partial "li_citation" . }}</li>
-        {{ end }}
-      </ol>
+      {{ if (len $col_journal) }}
+        <div class="hr-light"></div>
+        <h4>Journal Articles</h4>
+        <ol>
+          {{ range $col_journal }}
+            <li>{{ partial "li_citation" . }}</li>
+          {{ end }}
+        </ol>
+      </div>
+      {{ end }}
+
+      {{ if (len $col_conference) }}
+        <div class="hr-light"></div>
+        <h4>Conference Papers</h4>
+        <ol>
+          {{ range $col_conference }}
+            <li>{{ partial "li_citation" . }}</li>
+          {{ end }}
+        </ol>
+      {{ end }}
+
+      {{ if (len $col_report) }}
+        <div class="hr-light"></div>
+        <h4>Technical Reports</h4>
+        <ol>
+          {{ range $col_report }}
+            <li>{{ partial "li_citation" . }}</li>
+          {{ end }}
+        </ol>
+      {{ end }}
+
+      {{ if (len $col_preprint) }}
+        <div class="hr-light"></div>
+        <h4>Preprints</h4>
+        <ol>
+          {{ range $col_preprint }}
+            <li>{{ partial "li_citation" . }}</li>
+          {{ end }}
+        </ol>
+      {{ end }}
+
+      {{ if (len $col_patent) }}
+        <div class="hr-light"></div>
+        <h4>Patents</h4>
+        <ol>
+          {{ range $col_patent }}
+            <li>{{ partial "li_citation" . }}</li>
+          {{ end }}
+        </ol>
+      {{ end }}
     </div>
     {{ end }}
-
-    {{ if (len $col_conference) }}
-      <div class="hr-light"></div>
-      <h4>Conference Papers</h4>
-      <ol>
-        {{ range $col_conference }}
-          <li>{{ partial "li_citation" . }}</li>
-        {{ end }}
-      </ol>
-    {{ end }}
-
-    {{ if (len $col_report) }}
-      <div class="hr-light"></div>
-      <h4>Technical Reports</h4>
-      <ol>
-        {{ range $col_report }}
-          <li>{{ partial "li_citation" . }}</li>
-        {{ end }}
-      </ol>
-    {{ end }}
-
-    {{ if (len $col_preprint) }}
-      <div class="hr-light"></div>
-      <h4>Preprints</h4>
-      <ol>
-        {{ range $col_preprint }}
-          <li>{{ partial "li_citation" . }}</li>
-        {{ end }}
-      </ol>
-    {{ end }}
-
-    {{ if (len $col_patent) }}
-      <div class="hr-light"></div>
-      <h4>Patents</h4>
-      <ol>
-        {{ range $col_patent }}
-          <li>{{ partial "li_citation" . }}</li>
-        {{ end }}
-      </ol>
-    {{ end }}
-  </div>
 </section>
 
 

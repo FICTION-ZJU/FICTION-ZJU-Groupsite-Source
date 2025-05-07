@@ -53,13 +53,30 @@ highlight_name: false
 #   - Automated Verification
 #   - Programming Theory/Languages
 
+employment:
+  courses:
+    - course: Secretary
+      institution: College of Computer Science and Technology, Zhejiang University
+      year: 2023.09 - Present
+    - course: Administrative Director
+      institution: Hangzhou Juji Asset Management Co., Ltd.
+      year: 2017.09 - 2023.08
+    - course: General Manager
+      institution: Zhongyintong Payment Commerce Co. Ltd. (Zhejiang Branch)
+      year: 2016.07 - 2017.08
+    - course: Director of the Administrative Office
+      institution: Fuli Institute of Food Science, Zhejiang University
+      year: 2013.01 - 2016.06
+    - course: Student Affairs Counselor
+      institution: College of Continuing Education, Zhejiang University
+      year: 2012.06 - 2012.12
 
 education:
   courses:
     - course: M.Sc. in Finance
       institution: Coventry University
       year: 2011
-    - course: B.Sc. in Economics
+    - course: B.A. in Economics
       institution: Coventry University & Zhejiang University of Finance and Economics
       year: 2010
 
