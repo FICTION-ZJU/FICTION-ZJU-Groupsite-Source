@@ -52,7 +52,7 @@
       {{end}}
     {{ end }}
 
-    {{ $totalLength := add (len $col_book) (len $col_thesis) (len $col_chapter) (len $col_journal) (len $col_conference) (len $col_report) (len $col_preprint) (len $col_patent) }}
+    {{ $totalLength := math.Add (len $col_book) (len $col_thesis) (len $col_chapter) (len $col_journal) (len $col_conference) (len $col_report) (len $col_preprint) (len $col_patent) }}
     {{ if $totalLength }}
     <div class="article-widget">
       {{ if .File }}
