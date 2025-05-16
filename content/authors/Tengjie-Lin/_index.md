@@ -38,7 +38,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include formal methods and programming analysis.
+bio: My research interests include formal methods and program analysis.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
