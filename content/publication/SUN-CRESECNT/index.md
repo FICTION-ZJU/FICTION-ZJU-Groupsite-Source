@@ -16,7 +16,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2025-02-24T00:00:00Z'
+date: '2025-05-16T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
 doi: ''
@@ -28,11 +28,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '*arXiv*, abs/2502.13441'
-publication_short: '*arXiv*'
+publication: In *ACL 2025*
+publication_short: In *ACL 2025*
 
 #publication: '*IEEE Transactions on Services Computing*, XXX'
 #publication_short: '*IEEE Trans. Serv. Comput.*'
