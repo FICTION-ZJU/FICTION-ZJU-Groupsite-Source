@@ -110,9 +110,9 @@ academic_services:
   editor_committee_chair:
     - service: Workshop Chair of [ICFEM 2025](https://icfem2025.github.io/)
       time: Nov. 2025
-    - service: Guest Co-Editor of [Special Issue on Formal Methods and Applications of Journal of Software](https://www.jos.org.cn/jos/news/view/20241211090050001)
+    - service: Guest Co-Editor of [Special Issue on Formal Methods and Their Applications of Journal of Software](https://www.jos.org.cn/jos/news/view/20241211090050001)
       time: Nov. 2024
-    - service: Co-Chair of Forum on Formal Methods and Applications at [ChinaSoft 2024](https://chinasoft.ccf.org.cn/)
+    - service: Co-Chair of Forum on Formal Methods and Their Applications at [ChinaSoft 2024](https://chinasoft.ccf.org.cn/)
       time: Nov. 2024
     - service: Co-Chair of Forum on Theory and Engineering of Software under Uncertainty at [ChinaSoft 2024](https://chinasoft.ccf.org.cn/)
       time: Nov. 2024
