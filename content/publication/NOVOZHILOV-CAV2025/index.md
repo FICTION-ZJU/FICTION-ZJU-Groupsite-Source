@@ -49,11 +49,11 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
-# links:
-#   - icon_pack: fas
-#     icon: stamp
-#     name: "Artifact Evaluated"
-#     url: "https://github.com/polka125/1d-counter-programs-code"
+links:
+  - icon_pack: fas
+    icon: stamp
+    name: "Artifact Evaluated"
+    url: "https://github.com/FICTION-ZJU/Pastry"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
