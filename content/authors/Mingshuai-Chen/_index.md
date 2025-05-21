@@ -123,7 +123,7 @@ academic_services:
     - service: Reviewer Panel of [Mathematical Reviews](https://www.ams.org/publications/math-reviews/math-reviews)
     # TODO: OOPSLA'26, TACAS'26
     - service: "Program/Review Committee Member of
-      OOPSLA 2026,
+      [OOPSLA 2026](https://conf.researchr.org/track/splash-2026/splash-2026-research-papers),
       [TACAS](https://etaps.org/about/tacas/) 2026/[2025](https://etaps.org/2025/conferences/tacas/),
       [ICFEM 2025](https://icfem2025.github.io/),
       [ATVA 2025](https://conf.researchr.org/home/atva-2025),
