@@ -49,12 +49,12 @@ highlight_name: false
 # The subheadings, such as Interests and Education, will automatically translate depending on the language chosen in `config.yaml`. To customize the subheading text, see the Language page in the docs.
 
 interests:
-  - Formal Methods
-  - Logic · Verification · Synthesis
-  - Quantitative Reasoning
+  - Logical Aspects of CS
+  - Formal Verification and Synthesis
   - Programming Theory/Languages
   - Probabilistic/Quantum Systems
   - Cyber-Physical Systems
+  - AI for Formal Methods
 
 employment:
   courses:
