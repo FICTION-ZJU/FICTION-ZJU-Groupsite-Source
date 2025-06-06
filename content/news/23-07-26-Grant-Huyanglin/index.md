@@ -13,8 +13,8 @@ image:
   preview_only: false
 ---
 
-Our project proposal has been granted for funding by the joint foundation of CCF and Huawei.
+Our project proposal has been granted for funding by the CCF-Huawei Populus Grove Fund.
 
 <!--more-->
 
-Our project proposal titled "Self-Adaptive Abstract Interpretation for C Programs" has been granted for funding by the joint foundation of The China Computer Federation (CCF) and Huawei. This project aims to develop formal techniques for automating the procedure of abstract interpretation for analyzing C/C++ programs where, in particular, we explore a mechanism for (semi-)automatically adapting the abstract domains and refinement strategies during static analysis of real-world, industry-scale programs, in the hope of improving efficiency and reducing the rate of false alarms.
+Our project proposal titled "Self-Adaptive Abstract Interpretation for C Programs" has been granted for funding by the joint Populus Grove Fund of the China Computer Federation (CCF) and Huawei. This project aims to develop formal techniques for automating the procedure of abstract interpretation for analyzing C/C++ programs where, in particular, we explore a mechanism for (semi-)automatically adapting the abstract domains and refinement strategies during static analysis of real-world, industry-scale programs, in the hope of improving efficiency and reducing the rate of false alarms.
