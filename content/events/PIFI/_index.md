@@ -4,8 +4,11 @@ date: 2025-11-07
 publishDate: 2025-06-17
 ---
 
-November 7 - 11, 2025, Hangzhou, China
-
+<br/>
+<div style="text-align: center; font-size: 1.4em;">
+  November 7 - 11, 2025, Hangzhou, China
+</div>
+<br/>
 
 The CAS President's International Fellowship Initiative (PIFI) is a prestigious international exchange program launched by the Chinese Academy of Sciences to promote global scientific collaboration and academic exchanges. By fostering long-term partnerships, PIFI makes a significant contribution to advancing scientific innovation and addressing global challenges. PIFI DAY is the flagship event of this initiative; it aims to promote discussions on solutions to cutting-edge challenges and shape future research directions via intensive frontier academic presentations and exchanges in a specific research field.
 
