@@ -124,11 +124,12 @@ academic_services:
     # TODO: OOPSLA'26, TACAS'26
     - service: "Program/Review Committee Member of
       [OOPSLA 2026](https://conf.researchr.org/track/splash-2026/splash-2026-research-papers),
-      [TACAS](https://etaps.org/about/tacas/) 2026/[2025](https://etaps.org/2025/conferences/tacas/),
+      [TACAS](https://etaps.org/about/tacas/) [2026](https://etaps.org/2026/conferences/tacas/)/[2025](https://etaps.org/2025/conferences/tacas/),
       [ICFEM 2025](https://icfem2025.github.io/),
       [ATVA 2025](https://conf.researchr.org/home/atva-2025),
       [TASE 2025](https://cyprusconferences.org/tase2025/),
       [FSEN 2025](https://conf.researchr.org/home/fsen-2025),
+      [SETSS 2025](https://tis.ios.ac.cn/SETSS2025/),
       [SETTA 2024](https://setta2024.cs.cityu.edu.hk/),
       [RTCSA 2024](https://rtcsa2024.github.io/)/[2021](https://rtcsa2021.github.io/),
       [ICWS 2024 (SRG Workshop)](https://icws.conferences.computer.org/2024/srg-workshop/),
