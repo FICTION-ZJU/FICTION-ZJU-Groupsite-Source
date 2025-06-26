@@ -1,5 +1,5 @@
 ---
-title: General Topics on April 28, 2025
+title: General Topics on June 27, 2025
 date: 2025-06-27
 publishDate: 2025-06-25
 ---
