@@ -1,5 +1,5 @@
 ---
-title: "Probabilistic program sensitivity"
+title: "Probabilistic Program Sensitivity"
 date: 2025-6-27
 publishDate: 2025-06-25
 ---
