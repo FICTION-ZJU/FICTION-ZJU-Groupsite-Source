@@ -1,13 +1,13 @@
 ---
-title: Automated Verification of Monotonic Data Structure Traversals in C
+title: Robust Identification of Hybrid Automata from Noisy Data
 date: 2025-06-27
-publishDate: 2025-05-24
+publishDate: 2025-05-21
 ---
 
-**Presenter**: {{% mention "Yucheng Wang" %}}
+**Presenter**: {{% mention "Hengzhi Yu" %}}
 
-**Author**: Matthew Sotoudeh
+**Author**: Niklas Kochdumper, Mohammed Aristide Foughali, Peter Habermehl, and Eugene Asarin
 
-**Abstract**: Bespoke data structure operations are common in real-world C code. We identify one common subclass, monotonic data structure traversals (MDSTs), that iterate monotonically through the structure. For example, strlen iterates from start to end of a character array until a null byte is found, and a binary search tree insert iterates from the tree root towards a leaf. We describe a new automated verification tool, Shrinker, to verify MDSTs written in C. Shrinker uses a new program analysis strategy called scapegoating size descent, which is designed to take advantage of the fact that many MDSTs produce very similar traces when executed on an input (e.g., some large list) as when executed on a 'shrunk' version of the input (e.g., the same list but with its first element deleted). We introduce a new benchmark set containing over one hundred instances proving correctness, equivalence, and memory safety properties of dozens of MDSTs found in major C codebases including Linux, NetBSD, OpenBSD, QEMU, Git, and Musl. Shrinker significantly increases the number of monotonic string and list traversals that can be verified vs. a portfolio of state-of-the-art tools.
+**Abstract**: In recent years, many different methods for identifying hybrid automata from data have been proposed. However, most of these methods consider clean simulator data, and consequently do not perform well for noisy data measured from real systems. We address this shortcoming with a new approach for the identification of hybrid automata that is specifically designed to be robust to noise. In particular, we propose a new high-level strategy consisting of the following three steps: clustering based on the dynamics identified from a local dataset, state space partitioning using decision trees, and conversion of the decision tree to a hybrid automaton. In addition, we introduce several new concepts for the realization of the single steps. For example, we propose an automated regularization of the dynamic models used for clustering via rank adaption, as well as a new variant of the Gini impurity index for decision tree learning, tailored toward hybrid systems where different dynamics can be active within the same state space region. As our experiments on 19 challenging benchmarks with different characteristics demonstrate, in addition to being robust to both process and measurement noise, our approach avoids the need for extensive hyper-parameter tuning and also performs well for clean data without noise.
 
-**URL**: https://arxiv.org/abs/2505.18818
+**URL**: https://doi.org/10.1145/3716863.3718030

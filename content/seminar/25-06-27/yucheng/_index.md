@@ -1,14 +1,13 @@
 ---
-title: "Security Analysis of Decoy-State Quantum Key Distribution Based on Probabilistic Model Checking"
-date: 2025-04-28
-publishDate: 2025-04-27
+title: Automated Verification of Monotonic Data Structure Traversals in C
+date: 2025-06-27
+publishDate: 2025-05-24
 ---
 
-**Presenter**: {{% mention "Yiyang Zhou" %}}
+**Presenter**: {{% mention "Yucheng Wang" %}}
 
-**Abstract**: Quantum key distribution (QKD) protocols are cryptographic techniques that provide an unconditionally secure key for communication parties. However, due to the limitations of hardware devices, practical QKD systems are vulnerable to photon number splitting (PNS) attacks. To counteract this attack, researchers have proposed a decoy-state variant of QKD.
+**Author**: Matthew Sotoudeh
 
-As part of a cryptographic communication protocol, the security of this variant is of great concern. However, current security analyses are mainly based on theoretical derivations and mathematical proofs, which are insufficient to ensure the security of practical systems in various scenarios.
+**Abstract**: Bespoke data structure operations are common in real-world C code. We identify one common subclass, monotonic data structure traversals (MDSTs), that iterate monotonically through the structure. For example, strlen iterates from start to end of a character array until a null byte is found, and a binary search tree insert iterates from the tree root towards a leaf. We describe a new automated verification tool, Shrinker, to verify MDSTs written in C. Shrinker uses a new program analysis strategy called scapegoating size descent, which is designed to take advantage of the fact that many MDSTs produce very similar traces when executed on an input (e.g., some large list) as when executed on a 'shrunk' version of the input (e.g., the same list but with its first element deleted). We introduce a new benchmark set containing over one hundred instances proving correctness, equivalence, and memory safety properties of dozens of MDSTs found in major C codebases including Linux, NetBSD, OpenBSD, QEMU, Git, and Musl. Shrinker significantly increases the number of monotonic string and list traversals that can be verified vs. a portfolio of state-of-the-art tools.
 
-The main difficulty in analyzing the security of quantum systems lies in their inherent stochastic behavior and uncertainty. In this paper, we employ probabilistic model checking to encode the stochastic behavior of each component of the QKD protocol into a model checker. We verified the security nature of the protocol under multiple parameters to ensure the information security of the communication parties.
-
+**URL**: https://arxiv.org/abs/2505.18818
