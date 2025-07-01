@@ -1,9 +1,10 @@
 ---
 title: FICTION Events
-type: landing
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view: 2
 ---
-
-<!-- This is the homepage for FICTION Seminar. -->
-
-<br/>
-<br/>
