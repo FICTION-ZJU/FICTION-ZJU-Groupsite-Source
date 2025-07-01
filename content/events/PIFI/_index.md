@@ -19,7 +19,6 @@ tags: ["Events"]
 
 <div style="position: relative">
     <img src="/files/PIFI-DAY.png">
-    <span class="article-header-caption">Image credit: <a href="https://unsplash.com/" target="_blank" rel="noopener"><strong>Unsplash</strong></a></span>
 </div>
 
 The [CAS President's International Fellowship Initiative (PIFI)](https://pifi.cas.cn/) is a prestigious international exchange program launched by the Chinese Academy of Sciences to promote global scientific collaboration and academic exchanges. By fostering long-term partnerships, PIFI makes a significant contribution to advancing scientific innovation and addressing global challenges. PIFI DAY is the flagship event of this initiative; it aims to promote discussions on solutions to cutting-edge challenges and shape future research directions via intensive frontier academic presentations and exchanges in a specific research field.
