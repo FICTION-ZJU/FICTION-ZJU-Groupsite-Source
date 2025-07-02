@@ -37,7 +37,7 @@ publication_types: ['2']
 publication: '*IEEE Transactions on Computers*, xx'
 publication_short: '*IEEE Trans. Comput.*'
 
-abstract: We present AdaptDQC, an adaptive compiler framework for optimizing distributed quantum computing (DQC) under diverse performance metrics and inter-chip communication (ICC) architectures. AdaptDQC leverages a novel spatial-temporal graph model to describe quantum circuits, model ICC architectures, and quantify critical performance metrics in DQC systems, yielding a systematic and adaptive approach to constructing circuit-partitioning and chip-mapping strategies that admit hybrid ICC architectures and are optimized against various objectives. Experimental results on a collection of benchmarks show that AdaptDQC outperforms state-of-the-art compiler frameworks: It reduces, on average, the communication cost by up to 40.2% and the latency by up to 38.4%.
+abstract: "We present AdaptDQC, an adaptive compiler framework for optimizing distributed quantum computing (DQC) under diverse performance metrics and inter-chip communication (ICC) architectures. AdaptDQC leverages a novel spatial-temporal graph model to describe quantum circuits, model ICC architectures, and quantify critical performance metrics in DQC systems, yielding a systematic and adaptive approach to constructing circuit-partitioning and chip-mapping strategies that admit hybrid ICC architectures and are optimized against various objectives. Experimental results on a collection of benchmarks show that AdaptDQC outperforms state-of-the-art compiler frameworks: It reduces, on average, the communication cost by up to 40.2% and the latency by up to 38.4%."
 
 tags:
   - quantum systems
