@@ -1,4 +1,8 @@
-**报告题目**: Towards Trustworthy AI Agents: Integrating Large Language Models with Formal Methods
+---
+title: "Towards Trustworthy AI Agents: Integrating Large Language Models with Formal Methods"
+date: 2025-07-12
+publishDate: 2025-07-07
+---
 
 **摘要**: Large Language Models (LLMs) have emerged as a transformative AI paradigm, profoundly influencing broad aspects of daily life. Despite their remarkable performance, LLMs exhibit a fundamental limitation: hallucination—the tendency to produce misleading outputs that appear plausible. This inherent unreliability poses significant risks, particularly in high-stakes domains where trustworthiness is essential. On the other hand, Formal Methods (FMs), which share foundations with symbolic AI, provide mathematically rigorous techniques for modeling, specifying, reasoning, and verifying the correctness of systems. These methods have been widely employed in mission-critical domains such as aerospace, defense, and cybersecurity. However, the broader adoption of FMs remains constrained by significant challenges, including steep learning curves, limited scalability, and difficulties in adapting to the dynamic requirements of daily applications. To build trustworthy AI agents, we argue that the integration of LLMs and FMs is necessary to overcome the limitations of both paradigms. LLMs offer adaptability and human-like reasoning but lack formal guarantees of correctness and reliability. FMs provide rigor but need enhanced accessibility and automation to support broader adoption from LLMs.
 

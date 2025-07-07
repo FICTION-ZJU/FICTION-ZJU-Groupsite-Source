@@ -1,4 +1,8 @@
-**报告题目SMT**: (NRA)高效求解:结合局部搜索，MCSAT和openCAD的混合方法
+---
+title: "(NRA)高效求解:结合局部搜索，MCSAT和openCAD的混合方法"
+date: 2025-07-12
+publishDate: 2025-07-07
+---
 
 ![photo](photo.png)
 

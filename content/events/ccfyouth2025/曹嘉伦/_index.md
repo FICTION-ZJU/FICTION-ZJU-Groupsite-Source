@@ -1,4 +1,8 @@
-**报告题目**: From Informal to Formal – Incorporating and Evaluating LLMs on Natural Language Description to Verifiable Formal Proofs
+---
+title: From Informal to Formal – Incorporating and Evaluating LLMs on Natural Language Description to Verifiable Formal Proofs
+date: 2025-07-12
+publishDate: 2025-07-07
+---
 
 ![photo](photo.png)
 
