@@ -16,6 +16,10 @@ tags: ["Events"]
 
 此次研讨会聚焦大模型技术与程序分析和验证领域的深度结合，围绕“大模型时代下程序分析与验证的理论与实践”展开前沿探讨。论坛旨在探索大模型技术为形式化方法带来的新范式与新工具，推动程序自动化分析、智能验证与系统安全保障的技术突破。此次研讨会的成功举办将为该领域的研究者和从业者提供一个交流合作的平台，激发创新思维，推动形式化方法与AI结合的技术创新和应用落地，为行业发展提供新的思路和方法。
 
+腾讯会议链接：[https://meeting.tencent.com/dm/HXC1y2dy00if](https://meeting.tencent.com/dm/HXC1y2dy00if)
+
+直播链接：[http://live.bilibili.com/24106724](http://live.bilibili.com/24106724)
+
 ## 会议日程
 
 <div class="ccf-youth-25">
