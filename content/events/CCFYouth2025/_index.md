@@ -24,24 +24,19 @@ publishDate: 2025-07-07
 
 <div class="ccf-youth-25">
 
-|                 报告人                 |                                                                        报告主题                                                                         |    时间     |
-| :------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
-|                 林惠民                 |                                                                     林惠民院士致辞                                                                      | 08:50-08:55 |
-|                 詹乃军                 |                                                                     詹乃军主任致辞                                                                      | 08:55-09:00 |
-|                                        |                                                                 AI for FM（主持：孙军）                                                                 |             |
-|            卜磊（南京大学）            |                                            [基于大语言模型的程序规约理解与生成](/events/CCFYouth2025/卜磊/)                                             | 09:00-09:40 |
-|         曹嘉伦（香港科技大学）         | [From Informal to Formal – Incorporating and Evaluating LLMs on Natural Language Description to Verifiable Formal Proofs](/events/CCFYouth2025/曹嘉伦/) | 09:40-10:20 |
-|                                        |                                                                          茶歇                                                                           | 10:20-10:40 |
-|           高国雄（北京大学）           |                                [Applications of Large Language Models in Formal Reasoning](/events/CCFYouth2025/高国雄/)                                | 10:40-11:20 |
-| 李震国（华为诺亚方舟AI基础理论实验室） |            [From Neural Theorem Proving to Diffusion Reasoning Model: A Paradigm Shift in Automated Reasoning](/events/CCFYouth2025/李震国/)            | 11:20-12:00 |
-|      卜磊、曹嘉伦、高国雄、李震国      |                                        [AI for FM 圆桌论坛（主持：孙军）](/events/CCFYouth2025/圆桌论坛上半场/)                                         | 12:00-12:30 |
-|                                        |                                                                          午休                                                                           | 12:30-14:00 |
-|                                        |                                                                 FM for AI（主持：宋富）                                                                 |             |
-|  侯哲（澳大利亚 Griffith University）  |                 [Trustworthy AI Agents Require the Integration of Large Language Models and Formal Methods](/events/CCFYouth2025/侯哲/)                 | 14:00-14:40 |
-|          张民（华东师范大学）          |      [Safeguarding deep reinforcement learning systems via formal methods: From safety-by-design to runtime assurance](/events/CCFYouth2025/张民/)      | 14:40-15:30 |
-|                                        |                                                                          茶歇                                                                           | 15:30-15:50 |
-|   Djordje Zikelic（新加坡管理大学）    |                               [Neural Control with Certificates for Safe Autonomy](/events/CCFYouth2025/Djordje-Zikelic/)                               | 15:50-16:30 |
-| 曾一峰（英国 Northumbria University）  |                       [From Intelligent Agents to Agentic AI: Evolution, Challenges and Prospects](/events/CCFYouth2025/曾一峰/)                        | 16:30-17:10 |
-|  侯哲、张民、Djordje Zikelic、曾一峰   |                                        [FM for AI 圆桌论坛（主持：宋富）](/events/CCFYouth2025/圆桌论坛下半场/)                                         | 17:10-17:40 |
+|               报告人               |                                                                        报告主题                                                                         |    时间     |
+| :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
+|                                    |                                                                        论坛开幕                                                                         | 09:00-09:15 |
+|      张业迪（新加坡国立大学）      |                  [Towards Trustworthy AI Agents: Integrating Large Language Models with Formal Methods](/events/CCFYouth2025/张业迪/)                   | 09:15-10:00 |
+|                                    |                                                                          茶歇                                                                           | 10:00-10:30 |
+|         时清凯（南京大学）         |                                              [基于分治的可靠大语言模型应用](/events/CCFYouth2025/时清凯/)                                               | 10:30-11:15 |
+| 李屹（华为操作系统部OS内核实验室） |                                             [大模型驱动的泛形式化软件工程实践](/events/CCFYouth2025/李屹/)                                              | 11:15-12:00 |
+|                                    |                                                                          午休                                                                           | 12:00-14:00 |
+|         刘尚清（南京大学）         |                                           [基于大语言模型的程序规约理解与生成](/events/CCFYouth2025/刘尚清/)                                            | 14:00-14:45 |
+|       曹嘉伦（香港科技大学）       | [From Informal to Formal – Incorporating and Evaluating LLMs on Natural Language Description to Verifiable Formal Proofs](/events/CCFYouth2025/曹嘉伦/) | 14:45-15:30 |
+|                                    |                                                                          茶歇                                                                           | 15:30-16:00 |
+|  李昊坤（华为2012可信费马实验室）  |                                 [SMT(NRA)高效求解:结合局部搜索，MCSAT和openCAD的混合方法](/events/CCFYouth2025/李昊坤/)                                 | 16:00-16:45 |
+|                                    |                                                                        论坛闭幕                                                                         | 16:45-17:00 |
+|                                    |                                                                          晚宴                                                                           |    17:00    |
 
 </div>
