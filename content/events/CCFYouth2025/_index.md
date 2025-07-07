@@ -22,6 +22,8 @@ publishDate: 2025-07-07
 
 ## 会议日程
 
+<div class="ccf-table">
+
 |                 报告人                 |                                                                        报告主题                                                                         |    时间     |
 | :------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
 |                 林惠民                 |                                                                     林惠民院士致辞                                                                      | 08:50-08:55 |
@@ -41,3 +43,5 @@ publishDate: 2025-07-07
 |   Djordje Zikelic（新加坡管理大学）    |                               [Neural Control with Certificates for Safe Autonomy](/events/CCFYouth2025/Djordje-Zikelic/)                               | 15:50-16:30 |
 |  曾一峰（英国Northumbria University）  |                       [From Intelligent Agents to Agentic AI: Evolution, Challenges and Prospects](/events/CCFYouth2025/曾一峰/)                        | 16:30-17:10 |
 |      侯哲、张民、Djordje、曾一峰       |                                        [FM for AI 圆桌论坛（主持：宋富）](/events/CCFYouth2025/圆桌论坛下半场/)                                         | 17:10-17:40 |
+
+</div>

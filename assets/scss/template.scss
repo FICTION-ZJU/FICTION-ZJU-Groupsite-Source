@@ -112,3 +112,31 @@ table {
     background-color: $table-bg-hover;
   }
 }
+
+// table for ccf-youth
+.ccf-youth table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+
+  th,
+  td {
+    border: $table-border;
+    padding: $table-padding;
+    text-align: left;
+  }
+
+  th:nth-child(1),
+  td:nth-child(1) {
+    width: 15%;
+  }
+
+  th:nth-child(3),
+  td:nth-child(3) {
+    width: 10%;
+  }
+
+  tr:hover {
+    background-color: $table-bg-hover;
+  }
+}
