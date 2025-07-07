@@ -2,6 +2,7 @@
 title: 大模型驱动的泛形式化软件工程实践
 date: 2025-07-12
 publishDate: 2025-07-07
+weight: 3
 ---
 
 ![photo](photo.png)

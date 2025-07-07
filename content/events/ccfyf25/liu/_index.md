@@ -2,6 +2,7 @@
 title: 基于大语言模型的程序规约理解与生成
 date: 2025-07-12
 publishDate: 2025-07-07
+weight: 4
 ---
 
 ![photo](photo.png)
