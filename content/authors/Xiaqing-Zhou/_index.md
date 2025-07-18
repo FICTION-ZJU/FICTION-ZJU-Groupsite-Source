@@ -66,7 +66,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:1993813049@qq.com
+    link: mailto:12421311@zju.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/Crazyqing

@@ -9,7 +9,7 @@ tags: ["Papers"]
 
 image:
   caption: ''
-  focal_point: 'Smart'
+  focal_point: 'Bottom'
   preview_only: false
 ---
 
