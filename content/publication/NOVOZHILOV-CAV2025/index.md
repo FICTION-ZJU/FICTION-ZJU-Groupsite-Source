@@ -54,7 +54,7 @@ links:
     icon: stamp
     name: "Artifact Evaluated"
     url: "https://github.com/FICTION-ZJU/Pastry"
-url_pdf: ''
+url_pdf: '/papers/CAV2024.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
