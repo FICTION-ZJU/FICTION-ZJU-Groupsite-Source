@@ -18,7 +18,7 @@ author_notes:
 date: '2025-07-21T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: ''
+doi: '10.1007/978-3-031-98679-6_4'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
