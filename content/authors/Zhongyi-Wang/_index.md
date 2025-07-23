@@ -70,10 +70,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:wzygomboc@zju.edu.cn
+    link: mailto:zhongyi.wang@zju.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/wzyb-52
 ---
 
-I am currently a Ph.D. student at the [Formal Verification Group](/). My research focuses on static program analysis where, in particular, I develop formal techniques for automating the procedure of abstract interpretation for analyzing C/C++ programs.
+I am currently a Ph.D. student at the [Formal Verification Group](/). My research focuses on static program analysis where, in particular, I develop formal techniques for automating the procedure of abstract interpretation and deductive verification for analyzing/verifying C/C++ programs.
