@@ -21,8 +21,7 @@ authors:
 date: '2025-04-23T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-# TODO: add doi
-# doi: ''
+doi: '10.1007/s11390-025-5140-6'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -56,7 +55,7 @@ links:
     icon: certificate
     name: "2nd Prize@ChinaSoft'24"
     url: "/files/Parf-ChinaSoft24.png"
-# url_pdf: '/papers/ASE2024.pdf'
+url_pdf: '/papers/JCST2025.pdf'
 # url_code: 'https://hub.docker.com/r/parfdocker/parf'
 # url_dataset: ''
 # url_poster: ''
