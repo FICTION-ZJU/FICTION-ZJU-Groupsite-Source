@@ -57,7 +57,7 @@ employment:
   courses:
     - course: Secretary
       institution: College of Computer Science and Technology, Zhejiang University
-      year: 2023.09 - Present
+      year: 2025.09 - Present
     - course: ICT Instructor
       institution: Boa Primary School Affiliated to Zhejiang Normal University
       year: 2024.08 - 2025.02
