@@ -53,7 +53,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2508.14532'
 url_code: ''
 url_dataset: ''
 url_poster: ''
