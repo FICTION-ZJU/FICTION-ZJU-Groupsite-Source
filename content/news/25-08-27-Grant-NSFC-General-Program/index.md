@@ -9,7 +9,7 @@ tags: ["Grants"]
 
 image:
   caption: ''
-  focal_point: 'Smart'
+  focal_point: 'TopLeft'
   preview_only: false
 ---
 
