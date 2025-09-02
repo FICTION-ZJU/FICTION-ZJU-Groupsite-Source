@@ -54,7 +54,7 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
 
 ## Program (tentative)
 
-<div class="event-table">
+<div class="event-table-pifi">
 
 <table>
   <thead>
@@ -62,146 +62,131 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
       <th>Date</th>
       <th>Time</th>
       <th>Speaker</th>
-      <th>Session</th>
+      <th>Title</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Nov. 7</td>
       <td>10:00-18:00</td>
-      <td></td>
-      <td>Registration</td>
+      <td colspan="2">Registration</td>
     </tr>
+    <!-- 11.8 -->
     <tr>
       <td rowspan="9">Nov. 8</td>
       <td>09:20-09:30</td>
-      <td></td>
-      <td>Forum Opening</td>
+      <td colspan="2">Forum Opening</td>
     </tr>
     <tr>
       <td>09:30-10:10</td>
       <td>Jim Woodcock</td>
-      <td></td>
+      <td><i>TBA</i></td>
     </tr>
     <tr>
       <td>10:10-10:30</td>
-      <td></td>
-      <td>Tea Break</td>
+      <td colspan="2">Tea Break</td>
     </tr>
     <tr>
       <td>10:30-11:30</td>
-      <td><i>Panel Discussion</i></td>
-      <td></td>
+      <td colspan="2">Panel Discussion</td>
     </tr>
     <tr>
       <td>14:00-14:40</td>
       <td>Dominique Mery</td>
-      <td></td>
+      <td><i>TBA</i></td>
     </tr>
     <tr>
       <td>14:40-15:00</td>
-      <td></td>
-      <td>Tea Break</td>
+      <td colspan="2">Tea Break</td>
     </tr>
     <tr>
       <td>15:00-15:40</td>
       <td>Yamine Ait-Ameur</td>
-      <td></td>
+      <td><i>TBA</i></td>
     </tr>
     <tr>
       <td>15:40-16:40</td>
-      <td><i>Panel Discussion</i></td>
-      <td></td>
+      <td colspan="2">Panel Discussion</td>
     </tr>
     <tr>
       <td>18:00</td>
-      <td></td>
-      <td>Reception Dinner</td>
+      <td colspan="2">Reception Dinner</td>
     </tr>
+    <!-- 11.9 -->
     <tr>
-      <td rowspan="6">Nov. 9</td>
+      <td rowspan="7">Nov. 9</td>
       <td>09:30-10:10</td>
       <td>Jean-Pierre Talpin</td>
-      <td></td>
+      <td><i>TBA</i></td>
     </tr>
     <tr>
       <td>10:10-10:30</td>
-      <td></td>
-      <td>Tea Break</td>
+      <td colspan="2">Tea Break</td>
     </tr>
     <tr>
       <td>10:30-11:30</td>
-      <td><i>Panel Discussion</i></td>
-      <td></td>
+      <td colspan="2">Panel Discussion</td>
     </tr>
     <tr>
       <td>14:00-14:40</td>
       <td>Etienne Andre</td>
-      <td></td>
+      <td><i>TBA</i></td>
     </tr>
     <tr>
       <td>14:40-15:00</td>
-      <td></td>
-      <td>Tea Break</td>
+      <td colspan="2">Tea Break</td>
     </tr>
     <tr>
       <td>15:00-15:40</td>
       <td>Xaver Fink</td>
-      <td></td>
+      <td><i>TBA</i></td>
     </tr>
     <tr>
-      <td></td>
       <td>15:40-16:40</td>
-      <td><i>Panel Discussion</i></td>
-      <td></td>
+      <td colspan="2">Panel Discussion</td>
     </tr>
+    <!-- 11.10 -->
     <tr>
-      <td rowspan="6">Nov. 10</td>
+      <td rowspan="7">Nov. 10</td>
       <td>09:30-10:10</td>
       <td><i>TBD</i></td>
-      <td></td>
+      <td><i>TBA</i></td>
     </tr>
     <tr>
       <td>10:10-10:30</td>
-      <td></td>
-      <td>Tea Break</td>
+      <td colspan="2">Tea Break</td>
     </tr>
     <tr>
       <td>10:30-11:30</td>
-      <td><i>Panel Discussion</i></td>
-      <td></td>
+      <td colspan="2">Panel Discussion</td>
     </tr>
     <tr>
       <td>14:00-14:40</td>
       <td><i>TBD</i></td>
-      <td></td>
+      <td><i>TBA</i></td>
     </tr>
     <tr>
       <td>14:40-15:00</td>
-      <td></td>
-      <td>Tea Break</td>
+      <td colspan="2">Tea Break</td>
     </tr>
     <tr>
       <td>15:00-15:40</td>
       <td><i>TBD</i></td>
-      <td></td>
+      <td><i>TBA</i></td>
     </tr>
     <tr>
-      <td></td>
       <td>15:40-16:40</td>
-      <td><i>Panel Discussion</i></td>
-      <td></td>
+      <td colspan="2">Panel Discussion</td>
     </tr>
+    <!-- 11.11 -->
     <tr>
       <td rowspan="2">Nov. 11</td>
       <td>09:30-11:30</td>
-      <td><i>Panel Discussion</i></td>
-      <td></td>
+      <td colspan="2">Panel Discussion</td>
     </tr>
     <tr>
       <td>13:00-16:00</td>
-      <td></td>
-      <td>City Walk</td>
+      <td colspan="2">City Walk</td>
     </tr>
   </tbody>
 </table>
