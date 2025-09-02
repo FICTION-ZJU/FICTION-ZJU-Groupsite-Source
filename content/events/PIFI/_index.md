@@ -51,3 +51,159 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
 - Jim Woodcock, University of York, UK
 - Naijun Zhan, Peking University, China
 - Lijun Zhang, Institute of Software, Chinese Academy of Sciences, China
+
+## Program (tentative)
+
+<div class="event-table">
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Time</th>
+      <th>Speaker</th>
+      <th>Session</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nov. 7</td>
+      <td>10:00-18:00</td>
+      <td></td>
+      <td>Registration</td>
+    </tr>
+    <tr>
+      <td rowspan="9">Nov. 8</td>
+      <td>09:20-09:30</td>
+      <td></td>
+      <td>Forum Opening</td>
+    </tr>
+    <tr>
+      <td>09:30-10:10</td>
+      <td>Jim Woodcock</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10:10-10:30</td>
+      <td></td>
+      <td>Tea Break</td>
+    </tr>
+    <tr>
+      <td>10:30-11:30</td>
+      <td><i>Panel Discussion</i></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14:00-14:40</td>
+      <td>Dominique Mery</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14:40-15:00</td>
+      <td></td>
+      <td>Tea Break</td>
+    </tr>
+    <tr>
+      <td>15:00-15:40</td>
+      <td>Yamine Ait-Ameur</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15:40-16:40</td>
+      <td><i>Panel Discussion</i></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18:00</td>
+      <td></td>
+      <td>Reception Dinner</td>
+    </tr>
+    <tr>
+      <td rowspan="6">Nov. 9</td>
+      <td>09:30-10:10</td>
+      <td>Jean-Pierre Talpin</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10:10-10:30</td>
+      <td></td>
+      <td>Tea Break</td>
+    </tr>
+    <tr>
+      <td>10:30-11:30</td>
+      <td><i>Panel Discussion</i></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14:00-14:40</td>
+      <td>Etienne Andre</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14:40-15:00</td>
+      <td></td>
+      <td>Tea Break</td>
+    </tr>
+    <tr>
+      <td>15:00-15:40</td>
+      <td>Xaver Fink</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>15:40-16:40</td>
+      <td><i>Panel Discussion</i></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="6">Nov. 10</td>
+      <td>09:30-10:10</td>
+      <td><i>TBD</i></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10:10-10:30</td>
+      <td></td>
+      <td>Tea Break</td>
+    </tr>
+    <tr>
+      <td>10:30-11:30</td>
+      <td><i>Panel Discussion</i></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14:00-14:40</td>
+      <td><i>TBD</i></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14:40-15:00</td>
+      <td></td>
+      <td>Tea Break</td>
+    </tr>
+    <tr>
+      <td>15:00-15:40</td>
+      <td><i>TBD</i></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>15:40-16:40</td>
+      <td><i>Panel Discussion</i></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="2">Nov. 11</td>
+      <td>09:30-11:30</td>
+      <td><i>Panel Discussion</i></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13:00-16:00</td>
+      <td></td>
+      <td>City Walk</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
