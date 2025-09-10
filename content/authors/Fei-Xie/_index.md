@@ -75,7 +75,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:291089498@qq.com
+    link: mailto:xfein@zju.edu.cn
 ---
 
 I am the secretary of the [Formal Verification Group](/) in charge of the administrative affairs.
