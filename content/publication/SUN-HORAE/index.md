@@ -24,7 +24,7 @@ authors:
 date: '2025-08-16T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: ''
+doi: '10.24963/ijcai.2025/1039'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -58,7 +58,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: '/papers/IJCAI2025.pdf'
 url_code: 'https://github.com/Xxxxxsun/RuleGPT'
 url_dataset: 'https://huggingface.co/datasets/Xfgll/SRR-Eval'
 url_poster: ''
