@@ -48,7 +48,6 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
-# TODO: add links
 links:
   - icon_pack: fas
     icon: certificate

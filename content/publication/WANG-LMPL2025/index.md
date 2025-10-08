@@ -21,8 +21,7 @@ author_notes:
 date: '2025-08-09T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-#TODO: Add DOI
-doi: ''
+doi: '10.1145/3759425.3763394'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -53,7 +52,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2508.14532'
+url_pdf: '/papers/LMPL2025.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
