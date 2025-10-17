@@ -4,6 +4,11 @@ date: 2025-10-22
 publishDate: 2025-10-14
 ---
 
+<br/>
+
+**Location:** Meeting Room, 5th Floor, East Building, North Park, Xixi Campus
+
+**Online Meeting:** https://meeting.tencent.com/dm/7jXKQi3GLV1Z
 
 | Paper Venue |                                    Title of the Presentation                                    |            Presenter             |  Time Slot  |
 | :---------: | :---------------------------------------------------------------------------------------------: | :------------------------------: | :---------: |
