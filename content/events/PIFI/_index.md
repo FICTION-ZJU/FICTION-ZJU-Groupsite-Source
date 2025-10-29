@@ -80,7 +80,7 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     <tr>
       <td>09:30-10:10</td>
       <td>Jim Woodcock</td>
-      <td><i>TBA</i></td>
+      <td><a href="/events/pifi/jim_woodcock/">Leadership Election in Vehicle Platoons: Pattern-Based Compositional Deadlock Verification</a></td>
     </tr>
     <tr>
       <td>10:10-10:30</td>
