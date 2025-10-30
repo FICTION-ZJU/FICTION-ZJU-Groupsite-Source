@@ -54,6 +54,8 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
 
 ## Program (tentative)
 
+**Location**: Chaspark (21st Floor, North Tower, Gongyuan Building, No. 8, Qiushi Road, Xihu District)
+
 <div class="event-table-pifi">
 
 <table>
@@ -139,7 +141,7 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     <tr>
       <td>15:00-15:40</td>
       <td>Xaver Fink</td>
-      <td><i>TBA</i></td>
+      <td><a href="/events/pifi/xaver_fink/">Neural Network Robustness Verification for Control Systems at CERN</a></td>
     </tr>
     <tr>
       <td>15:40-16:40</td>
