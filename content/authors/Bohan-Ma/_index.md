@@ -68,7 +68,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:rhinegst@outlook.com
+    link: mailto:bohanma@zju.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/RhineGST
