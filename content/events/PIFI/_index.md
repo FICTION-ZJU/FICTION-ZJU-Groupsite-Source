@@ -151,8 +151,8 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     <tr>
       <td rowspan="7">Nov. 10</td>
       <td>09:30-10:10</td>
-      <td><i>TBD</i></td>
-      <td><i>TBA</i></td>
+      <td>Alvaro Miyazawa</td>
+      <td><a href="/events/pifi/alvaro_miyazawa/">Modelling, Simulation and Verification with Diagrammatic Physical Models</a></td>
     </tr>
     <tr>
       <td>10:10-10:30</td>
