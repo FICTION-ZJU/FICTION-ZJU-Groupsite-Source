@@ -94,8 +94,8 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     </tr>
     <tr>
       <td>14:00-14:40</td>
-      <td>Dominique Mery</td>
-      <td><i>TBA</i></td>
+      <td>Dominique Méry</td>
+      <td><a href="/events/pifi/dominique_mery/">From System Events to Software Operations for Refinement-based Modeling of Hybrid Systems</a></td>
     </tr>
     <tr>
       <td>14:40-15:00</td>
@@ -119,7 +119,7 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
       <td rowspan="7">Nov. 9</td>
       <td>09:30-10:10</td>
       <td>Jean-Pierre Talpin</td>
-      <td><i>TBA</i></td>
+      <td><a href="/events/pifi/jeanpierre_talpin/">The Hybrid Pi Calculus and the Way of Session</a></td>
     </tr>
     <tr>
       <td>10:10-10:30</td>
@@ -131,8 +131,8 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     </tr>
     <tr>
       <td>14:00-14:40</td>
-      <td>Etienne Andre</td>
-      <td><i>TBA</i></td>
+      <td>Étienne André</td>
+      <td><a href="/events/pifi/etienne_andre/">Monitoring Cyber-Physical Systems Using Formal Methods</a></td>
     </tr>
     <tr>
       <td>14:40-15:00</td>
