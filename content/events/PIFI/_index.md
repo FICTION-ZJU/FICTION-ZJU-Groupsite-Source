@@ -173,8 +173,8 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     </tr>
     <tr>
       <td>15:00-15:40</td>
-      <td><i>TBD</i></td>
-      <td><i>TBA</i></td>
+      <td>Mingshuai Chen</td>
+      <td><a href="/events/pifi/mingshuai_chen/">Derivative-Agnostic Inference of Nonlinear Hybrid Systems</a></td>
     </tr>
     <tr>
       <td>15:40-16:40</td>
