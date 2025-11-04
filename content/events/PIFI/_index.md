@@ -164,8 +164,8 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     </tr>
     <tr>
       <td>14:00-14:40</td>
-      <td><i>TBD</i></td>
-      <td><i>TBA</i></td>
+      <td>Shuling Wang</td>
+      <td><a href="/events/pifi/shuling_wang/">Integrating Symbolic Execution with LLMs for Automated Generation of Program Specifications</a></td>
     </tr>
     <tr>
       <td>14:40-15:00</td>
