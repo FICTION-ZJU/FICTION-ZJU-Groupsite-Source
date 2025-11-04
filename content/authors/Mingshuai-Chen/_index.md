@@ -108,6 +108,8 @@ social:
 
 academic_services:
   editor_committee_chair:
+    - service: Program Co-Chair of [QEST+FORMATS 2026](https://confest-2026.github.io/qestformats/)
+      time: Sep. 2026
     - service: Workshop Chair of [ICFEM 2025](https://icfem2025.github.io/)
       time: Nov. 2025
     - service: Guest Co-Editor of [Special Issue on Formal Methods and Their Applications of Journal of Software](https://www.jos.org.cn/jos/news/view/20241211090050001)
