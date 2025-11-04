@@ -1,0 +1,11 @@
+---
+title: "UTP and Institutions: A Semantic Foundation for Formal Engineering Methods"
+date: 2025-11-07
+publishDate: 2025-10-29
+---
+
+**Speaker**: {{% mention "Jim Woodcock" %}}
+
+**Abstract**: Unifying Theories of Programming (UTP) and Institutions are two of the most influential frameworks for giving rigorous semantics to programming languages and specification logics. Each has distinctive strengths: UTP excels at computational reasoning, refinement, and the laws of programming within a unified relational model; the institution framework excels at logic independence, heterogeneous specification, and meta-theoretic results at scale. In this talk, I demonstrate how we can integrate these complementary approaches to construct trustworthy systems. I begin by contrasting the challenges that UTP solves but Institutions struggle with, and vice versa, illustrated with examples from the refinement calculus, healthiness conditions, heterogeneous logic translation, and the satisfaction condition. I then combine the two perspectives: UTP theories are wrapped as Institutions, enabling heterogeneous reasoning while retaining UTP's calculational power. This combination provides a pathway toward a semantic foundation that unifies intra-paradigm refinement with inter-paradigm logic-independence. The practical relevance of this integration is clear: modern systems are increasingly heterogeneous and safety-critical, spanning autonomous vehicles, cyber-physical systems, security protocols, and AI assurance. By combining UTP and Institutions, we move closer to the vision of formal engineering methods: rigorous semantic theory serving engineering practice, which is at the heart of ICFEM's mission.
+
+**Bio**: Jim Woodcock is a Professor of Software Engineering at the University of York and a Fellow of the Royal Academy of Engineering. His research focuses on formal methods, software engineering, and system verification, with contributions to Z notation, CSP, and unifying theories of programming. He played a key role in the formalization of IBM's CICS transaction processing system, which won the Queen's Award for Technological Achievement, and the Mondex electronic payment system, achieving the highest ITSEC classification. He has held academic positions at Oxford, Kent, and York and is the Editor-in-Chief of Formal Aspects of Computing.

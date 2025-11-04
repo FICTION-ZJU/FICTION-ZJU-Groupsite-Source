@@ -119,7 +119,7 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
       <td rowspan="7">Nov. 9</td>
       <td>09:30-10:10</td>
       <td>Jean-Pierre Talpin</td>
-      <td><a href="/events/pifi/jeanpierre_talpin/">The Hybrid Pi Calculus and the Way of Session</a></td>
+      <td><a href="/events/pifi/jeanpierre_talpin/">Taming the Internet of Things Using the Hybrid Pi Calculus</a></td>
     </tr>
     <tr>
       <td>10:10-10:30</td>
@@ -182,12 +182,17 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     </tr>
     <!-- 11.11 -->
     <tr>
-      <td rowspan="2">Nov. 11</td>
+      <td rowspan="3">Nov. 11</td>
       <td>09:30-11:30</td>
       <td colspan="2">Panel Discussion</td>
     </tr>
     <tr>
-      <td>13:00-16:00</td>
+      <td>14:00-15:00</td>
+      <td>Jim Woodcock</td>
+      <td><a href="/events/pifi/jim_woodcock1/">UTP and Institutions: A Semantic Foundation for Formal Engineering Methods</a></td>
+    </tr>
+    <tr>
+      <td>15:00-17:30</td>
       <td colspan="2">City Walk</td>
     </tr>
   </tbody>

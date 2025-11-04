@@ -1,14 +1,16 @@
 ---
-title: "The Hybrid Pi Calculus and the Way of Session"
+title: "Taming the Internet of Things Using the Hybrid Pi Calculus"
 date: 2025-11-07
 publishDate: 2025-10-29
 ---
 
 **Speaker**: {{% mention "Jean-Pierre Talpin" %}}
 
-**Abstract**: An era of ubiquitous computing arises under the novel paradigm of mobile cyber-physical networks, where continuous dynamics in physical spaces become deeply coupled to intermittent discrete computations and communications in digital and social spaces. Its "lingua franca" must denote physical and digital mobility, physical and digital distribution and communication, intermittence and openness, creation and deletion, physics and disturbances, time, real and logical. The semantics of hybrid pi-calculus features all these aspects packed in a lean proof system of five discrete and continuous rules. Here be dragons, as the adage says: this simplicity comes at the cost of extraordinary challenges to formal verification.
+**Abstract**: An era of ubiquitous computing arises under the  novel paradigm of mobile cyber-physical networks which intertwines continuous dynamics in physical spaces to intermittent discrete computations and communications in digital and social spaces.
 
-The aim of this talk is to share the key process algebraic concepts that put the HPC into motion, and to hint the steep path ahead to analyse, verify, and implement it.
+The semantics hybrid pi-calculus packs capacities to express the complexity of such networks using a lean and simple proof system. Here be dragons! however, as this simplicity comes at the cost of uncharted challenges to formal verification.
+
+This talk will share key process algebraic concepts to put the HPC in motion, and hint the steep and arduous path ahead to type, analyse, verify, and implement it with the help of vast literatures on bisimulation, session type and contract theory.
 
 **Bio**: Jean-Pierre Talpin is a senior scientist with INRIA. He received a Master degree in Theoretical Computer Science from University Paris VI and was awarded a Ph.D. Thesis by Ecole des Mines de Paris under the supervision of Pierre Jouvelot. He then joined the European Computer-Industry Research Centre in Munich for three years before being hired by INRIA in 1995, where he led Inria project-teams ESPRESSO and TEA from 2000 to 2023.
 
