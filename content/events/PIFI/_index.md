@@ -88,14 +88,23 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
       <td>10:10-10:30</td>
       <td colspan="2">Tea Break</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>10:30-11:30</td>
+      <td colspan="2">Panel Discussion</td>
+    </tr> -->
+    <tr>
+      <td>10:30-11:10</td>
+      <td>Dominique Méry</td>
+      <td><a href="/events/pifi/dominique_mery/">From System Events to Software Operations for Refinement-based Modeling of Hybrid Systems</a></td>
+    </tr>
+    <tr>
+      <td>11:10-12:00</td>
       <td colspan="2">Panel Discussion</td>
     </tr>
     <tr>
       <td>14:00-14:40</td>
-      <td>Dominique Méry</td>
-      <td><a href="/events/pifi/dominique_mery/">From System Events to Software Operations for Refinement-based Modeling of Hybrid Systems</a></td>
+      <td>Miaomiao Zhang</td>
+      <td><a href="/events/pifi/miaomiao_zhang/">Compositional Verification of Timed Automata</a></td>
     </tr>
     <tr>
       <td>14:40-15:00</td>
@@ -107,16 +116,16 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
       <td><i>TBA</i></td>
     </tr>
     <tr>
-      <td>15:40-16:40</td>
+      <td>15:40-17:00</td>
       <td colspan="2">Panel Discussion</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>18:00</td>
       <td colspan="2">Reception Dinner</td>
-    </tr>
+    </tr> -->
     <!-- 11.9 -->
     <tr>
-      <td rowspan="7">Nov. 9</td>
+      <td rowspan="8">Nov. 9</td>
       <td>09:30-10:10</td>
       <td>Jean-Pierre Talpin</td>
       <td><a href="/events/pifi/jeanpierre_talpin/">Taming the Internet of Things Using the Hybrid Pi Calculus</a></td>
@@ -126,13 +135,18 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
       <td colspan="2">Tea Break</td>
     </tr>
     <tr>
-      <td>10:30-11:30</td>
+      <td>10:30-11:10</td>
+      <td>Étienne André</td>
+      <td><a href="/events/pifi/etienne_andre/">Monitoring Cyber-Physical Systems Using Formal Methods</a></td>
+    </tr>
+    <tr>
+      <td>11:10-12:00</td>
       <td colspan="2">Panel Discussion</td>
     </tr>
     <tr>
       <td>14:00-14:40</td>
-      <td>Étienne André</td>
-      <td><a href="/events/pifi/etienne_andre/">Monitoring Cyber-Physical Systems Using Formal Methods</a></td>
+      <td>Xaver Fink</td>
+      <td><a href="/events/pifi/xaver_fink/">Neural Network Robustness Verification for Control Systems at CERN</a></td>
     </tr>
     <tr>
       <td>14:40-15:00</td>
@@ -140,11 +154,11 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     </tr>
     <tr>
       <td>15:00-15:40</td>
-      <td>Xaver Fink</td>
-      <td><a href="/events/pifi/xaver_fink/">Neural Network Robustness Verification for Control Systems at CERN</a></td>
+      <td>Shuling Wang</td>
+      <td><a href="/events/pifi/shuling_wang/">Integrating Symbolic Execution with LLMs for Automated Generation of Program Specifications</a></td>
     </tr>
     <tr>
-      <td>15:40-16:40</td>
+      <td>15:40-17:00</td>
       <td colspan="2">Panel Discussion</td>
     </tr>
     <!-- 11.10 -->
@@ -164,8 +178,8 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     </tr>
     <tr>
       <td>14:00-14:40</td>
-      <td>Shuling Wang</td>
-      <td><a href="/events/pifi/shuling_wang/">Integrating Symbolic Execution with LLMs for Automated Generation of Program Specifications</a></td>
+      <td>Bohan Li</td>
+      <td><a href="/events/pifi/bohan_li/">Local Search Algorithms for SMT on Arithmetic Theories and Their Applications in Terminal Scenarios</a></td>
     </tr>
     <tr>
       <td>14:40-15:00</td>
@@ -177,7 +191,7 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
       <td><a href="/events/pifi/mingshuai_chen/">Derivative-Agnostic Inference of Nonlinear Hybrid Systems</a></td>
     </tr>
     <tr>
-      <td>15:40-16:40</td>
+      <td>15:40-17:00</td>
       <td colspan="2">Panel Discussion</td>
     </tr>
     <!-- 11.11 -->
