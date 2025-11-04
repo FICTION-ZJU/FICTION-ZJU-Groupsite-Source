@@ -52,7 +52,7 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
 - Naijun Zhan, Peking University, China
 - Lijun Zhang, Institute of Software, Chinese Academy of Sciences, China
 
-## Program (tentative)
+## Program
 
 **Location**: Chaspark (21st Floor, North Tower, Gongyuan Building, No. 8, Qiushi Road, Xihu District)
 
