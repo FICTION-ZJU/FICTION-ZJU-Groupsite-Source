@@ -163,7 +163,7 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     </tr>
     <!-- 11.10 -->
     <tr>
-      <td rowspan="7">Nov. 10</td>
+      <td rowspan="8">Nov. 10</td>
       <td>09:30-10:10</td>
       <td>Alvaro Miyazawa</td>
       <td><a href="/events/pifi/alvaro_miyazawa/">Modelling, Simulation and Verification with Diagrammatic Physical Models</a></td>
@@ -191,8 +191,13 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
       <td><a href="/events/pifi/mingshuai_chen/">Derivative-Agnostic Inference of Nonlinear Hybrid Systems</a></td>
     </tr>
     <tr>
-      <td>15:40-17:00</td>
+      <td>15:40-16:40</td>
       <td colspan="2">Panel Discussion</td>
+    </tr>
+    <tr>
+      <td>16:40-17:20</td>
+      <td>Jin Song Dong</td>
+      <td><a href="/events/pifi/jin_song_dong/">TBA</a></td>
     </tr>
     <!-- 11.11 -->
     <tr>
