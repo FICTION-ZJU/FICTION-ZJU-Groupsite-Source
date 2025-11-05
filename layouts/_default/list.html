@@ -1,0 +1,34 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+    <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  {{ $showSub := default -1 .Params.showSub }}
+
+  {{ if eq $showSub "none" }}
+    {{/* do not show anything */}}
+
+  {{ else if gt $showSub 0 }}
+    {{ $pages := first $showSub .Pages }}
+    {{ range $index, $post := $pages }}
+      {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+    {{ end }}
+    {{ partial "pagination" . }}
+
+  {{ else }}
+    {{/* remain the same */}}
+    {{ $paginator := .Paginate .Pages }}
+    {{ range $index, $post := $paginator.Pages }}
+      {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "compact") "index" $index) }}
+    {{end}}
+    {{ partial "pagination" . }}
+
+  {{ end }}
+
+</div>
+
+{{- end -}}

@@ -2,6 +2,7 @@
 title: PIFI Day on the Design of AI-Enabled Safety-Critical Systems
 date: 2025-11-07
 publishDate: 2025-06-17
+showSub: none
 
 tags: ["Events"]
 
