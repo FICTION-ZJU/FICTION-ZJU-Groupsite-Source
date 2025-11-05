@@ -112,8 +112,8 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
     </tr>
     <tr>
       <td>15:00-15:40</td>
-      <td>Yamine Ait-Ameur</td>
-      <td><i>TBA</i></td>
+      <td>Yamine AIT AMEUR</td>
+      <td><a href="/events/pifi/yamine_aitameur">A Framework for Formal Modelling of Cyber-Physical Systems</a></td>
     </tr>
     <tr>
       <td>15:40-17:00</td>
