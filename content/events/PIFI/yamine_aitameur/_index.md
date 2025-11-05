@@ -4,7 +4,7 @@ date: 2025-11-07
 publishDate: 2025-10-29
 ---
 
-**Speaker**: {{% mention "Yamine AIT AMEUR" %}}
+**Speaker**: {{% mention "Yamine Ait-Ameur" %}}
 
 **Abstract**: In this talk, we will discuss state-based formal methods, namely the Event-B method. We report on our findings about the definition of algebraic theories that are utilised within Event-B model refinement chains. In our method, Event-B models borrow types, operators, axioms, theorems, proof and rewrite rules from these theories. Relying on their well-definedness, these operators, axioms, theorems and proof and rewrite rules are useful to discharge the proof obligations generated for these models, and contribute to reducing development efforts, as theorems of the theories are proved once and for all. The approach is illustrated on the generation of new proof obligations in particular for verifying cyber-physical systems.
 
