@@ -55,8 +55,6 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
 
 ## Program
 
-**Location**: Chaspark (21st Floor, North Tower, Gongyuan Building, No. 8, Qiushi Road, Xihu District)
-
 <div class="event-table-pifi">
 
 <table>
@@ -250,3 +248,37 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
 </table>
 
 </div>
+
+## Location
+
+**Address:** 21st Floor, Gongyuan Building NW. Qun Building (Qiushi Road 8, Xihu District)
+<br/>
+**Address in chinese:** 西湖区求是路8号公元大厦北楼21楼
+<br/>
+[**Navigate via Google Maps**](https://www.google.com/maps/place/Gongyuan+Building+NW.+Qun+Building,+%E6%9C%9D%E6%99%96%E5%9C%B0%E5%8C%BA+Xi+Hu+Qu,+Hang+Zhou+Shi,+Zhe+Jiang+Sheng,+China,+310058/@30.2667284,120.130116,17z/data=!4m6!3m5!1s0x344b62edf6803e45:0x5945f2ced05f0153!8m2!3d30.2655701!4d120.1310977!16s%2Fg%2F12xqxs0ml?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D)
+
+<div style="position: relative">
+    <img src="/files/PIFI-DAY-Location.png">
+</div>
+
+<div style="text-align: center; margin-top: 2em;">
+  <iframe
+    width="100%"
+    height="400"
+    frameborder="0"
+    scrolling="no"
+    marginheight="0"
+    marginwidth="0"
+    src="https://www.openstreetmap.org/export/embed.html?bbox=120.124049%2C30.265895%2C120.128049%2C30.269895&amp;layer=mapnik&amp;marker=30.267895%2C120.126349"
+    style="border:0; border-radius:12px;">
+  </iframe>
+
+  <br/>
+  <small>
+    <a href="https://www.openstreetmap.org/?mlat=30.267895&amp;mlon=120.126349#map=19/30.267895/120.126349" target="_blank">
+      View Larger Map
+    </a>
+  </small>
+</div>
+
+---
