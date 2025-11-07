@@ -258,7 +258,7 @@ The PIFI Day affiliated with [ICFEM 2025](https://icfem2025.github.io/) focuses 
 [**Navigate via Google Maps**](https://www.google.com/maps/place/Gongyuan+Building+NW.+Qun+Building,+%E6%9C%9D%E6%99%96%E5%9C%B0%E5%8C%BA+Xi+Hu+Qu,+Hang+Zhou+Shi,+Zhe+Jiang+Sheng,+China,+310058/@30.2667284,120.130116,17z/data=!4m6!3m5!1s0x344b62edf6803e45:0x5945f2ced05f0153!8m2!3d30.2655701!4d120.1310977!16s%2Fg%2F12xqxs0ml?entry=ttu&g_ep=EgoyMDI1MTEwNC4xIKXMDSoASAFQAw%3D%3D)
 
 <div style="position: relative">
-    <img src="/files/PIFI-DAY-Location.png">
+    <img src="/files/PIFI-DAY-Location.jpg">
 </div>
 
 <div style="text-align: center; margin-top: 2em;">
