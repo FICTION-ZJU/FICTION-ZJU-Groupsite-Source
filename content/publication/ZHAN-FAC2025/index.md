@@ -18,8 +18,7 @@ date: '2025-12-08T00:00:00Z'
 #date: '2015-09-01T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-#TODO Add DOI
-doi: ''
+doi: '10.1145/3783996'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
