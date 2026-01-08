@@ -1,7 +1,7 @@
 ---
 title: Tristate Numbers Abstract Domain in eBPF Verifier
 date: 2025-06-27
-publishDate: 2022-05-09
+publishDate: 2025-06-25
 ---
 
 **Presenter**: {{% mention "Yazhou Tang" %}}
