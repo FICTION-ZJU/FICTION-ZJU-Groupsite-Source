@@ -2,7 +2,7 @@
 title: 'Derivative-Agnostic Inference of Nonlinear Hybrid Systems'
 subtitle: ''
 
-featured: false
+featured: true
 draft: false
 
 authors:
@@ -34,17 +34,21 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '*HSCC 2026*'
-publication_short: '*HSCC 2026*'
+publication: In *HSCC 2026*
+publication_short: In *HSCC 2026*
 
 
-abstract: 'This paper addresses the problem of inferring hybrid automata from input-output traces of hybrid systems exhibiting discrete mode switches between continuously evolving dynamics. Existing approaches primarily rely on derivative-based strategies in which (i) mode switches are detected by drastic variations in derivatives and (ii) trace segments are clustered based on signal similarity -- both requiring user-supplied thresholds. We present a derivative-agnostic approach, named Dainarx, for inferring nonlinear hybrid systems whose dynamics are captured by nonlinear autoregressive exogenous (NARX) models. Dainarx employs NARX models as a unified, threshold-free representation for both mode switching and segment clustering. We show that Dainarx suffices to learn models that closely approximate a general class of hybrid systems featuring high-order nonlinear dynamics with exogenous inputs, nonlinear guard conditions, linear resets, and noise. Experimental results on a collection of benchmarks demonstrate that our approach effectively and efficiently infers nontrivial hybrid automata with high-order dynamics, yielding significantly more accurate approximations than state-of-the-art techniques, while achieving robustness comparable to approaches dedicated to fitting noisy data.'
+abstract: 'This paper addresses the problem of inferring hybrid automata from input-output traces of hybrid systems exhibiting discrete mode switches between continuously evolving dynamics. Existing approaches primarily rely on derivative-based strategies in which (i) mode switches are detected by drastic variations in derivatives and (ii) trace segments are clustered based on signal similarity -- both requiring user-supplied thresholds. We present a derivative-agnostic approach, named <span style="font-variant:small-caps;">Dainarx</span>, for inferring nonlinear hybrid systems whose dynamics are captured by nonlinear autoregressive exogenous (NARX) models. <span style="font-variant:small-caps;">Dainarx</span> employs NARX models as a unified, threshold-free representation for both mode switching and segment clustering. We show that <span style="font-variant:small-caps;">Dainarx</span> suffices to learn models that closely approximate a general class of hybrid systems featuring high-order nonlinear dynamics with exogenous inputs, nonlinear guard conditions, linear resets, and noise. Experimental results on a collection of benchmarks demonstrate that our approach effectively and efficiently infers nontrivial hybrid automata with high-order dynamics, yielding significantly more accurate approximations than state-of-the-art techniques, while achieving robustness comparable to approaches dedicated to fitting noisy data.'
 
 tags:
-  - hybrid systems theory
+  - hybrid systems
+  - hybrid automata
   - system identification
   - automata learning
   - nonlinear dynamics
+  - differential dynamics
+  - learnability
+  - synthesis
 
 
 # Summary. An optional shortened abstract.
@@ -55,7 +59,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '/slides/Dainarx.pdf'
 url_source: ''
 url_video: ''
 
