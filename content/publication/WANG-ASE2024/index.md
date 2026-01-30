@@ -2,7 +2,7 @@
 title: 'Parf: Adaptive Parameter Refining for Abstract Interpretation'
 subtitle: ''
 
-featured: true
+featured: false
 draft: false
 
 authors:

@@ -2,7 +2,7 @@
 title: 'A Brief History of Formal Methods in China'
 subtitle: ''
 
-featured: true
+featured: false
 draft: false
 
 authors:
