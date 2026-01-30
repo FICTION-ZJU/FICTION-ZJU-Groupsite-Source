@@ -38,7 +38,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include formal verification and program analysis.
+bio: My research interests include cyber-physical systems and system identification.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -49,8 +49,8 @@ highlight_name: false
 # The subheadings, such as Interests and Education, will automatically translate depending on the language chosen in `config.yaml`. To customize the subheading text, see the Language page in the docs.
 
 interests:
-  - Static Analysis
-  - Programming Theory/Languages
+  - Cyber-Physical Systems
+  - Hybrid Systems
 
 
 education:
@@ -72,4 +72,4 @@ social:
 ---
 
 
-I am currently a Master student at the [Formal Verification Group](/). My research interests mainly include formal verification and program analysis.
+I am currently a Master student at the [Formal Verification Group](/). My research interests mainly include cyber-physical systems and system identification.
