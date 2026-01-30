@@ -13,7 +13,7 @@ image:
   preview_only: false
 ---
 
-Our paper has been by HSCC 2026.
+Our paper has been accepted by HSCC 2026.
 
 <!--more-->
 
