@@ -119,7 +119,7 @@ academic_services:
     - service: Co-Chair of Forum on Theory and Engineering of Software under Uncertainty at [ChinaSoft 2024](https://chinasoft.ccf.org.cn/)
       time: Nov. 2024
     - service: Associate Editor of [Frontiers in Computer Science (Theoretical Computer Science)](https://www.frontiersin.org/journals/computer-science/sections/theoretical-computer-science)
-        time: Mar. 2026  
+      time: Mar. 2026  
   committee_member:
     - service: Senior Member of the [China Computer Federation (CCF)](https://www.ccf.org.cn/en/)
     - service: Executive Member of CCF Technical Committee on Formal Methods
