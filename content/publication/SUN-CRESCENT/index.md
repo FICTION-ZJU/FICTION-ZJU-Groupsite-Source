@@ -19,7 +19,7 @@ authors:
 date: '2025-07-27T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: ''
+doi: '10.18653/v1/2025.findings-acl.337'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -52,7 +52,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2502.13441'
+url_pdf: '/papers/ACL2025.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

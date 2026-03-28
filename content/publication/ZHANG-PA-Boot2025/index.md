@@ -22,8 +22,7 @@ date: '2025-10-09T00:00:00Z'
 #date: '2015-09-01T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-#TODO
-doi: ''
+doi: '10.1109/TIFS.2025.3642638'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -53,7 +52,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://arxiv.org/pdf/2209.07936.pdf'
+url_pdf: '/papers/TIFS2026.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
