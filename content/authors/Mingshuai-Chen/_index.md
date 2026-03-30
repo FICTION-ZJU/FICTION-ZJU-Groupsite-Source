@@ -130,6 +130,7 @@ academic_services:
       [CAV](https://i-cav.org/) [2026](https://conferences.i-cav.org/2026/),
       [OOPSLA 2026](https://conf.researchr.org/track/splash-2026/splash-2026-research-papers),
       [FSTTCS](https://www.fsttcs.org.in/) 2026,
+      [LMPL@SPLASH 2026](https://conf.researchr.org/home/splash-issta-2026/lmpl-2026),
       [ICFEM 2025](https://icfem2025.github.io/),
       [ATVA 2025](https://conf.researchr.org/home/atva-2025),
       [TASE 2025](https://cyprusconferences.org/tase2025/),
