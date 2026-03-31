@@ -69,7 +69,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:hydongegal@foxmail.com
+    link: mailto:hydong@zju.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/1want2sleep
