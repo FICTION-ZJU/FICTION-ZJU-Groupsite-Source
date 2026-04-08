@@ -25,8 +25,7 @@ author_notes:
 date: '2026-10-03T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-# TODO
-doi: ''
+doi: '10.1145/3798268'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -56,7 +55,12 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
-url_pdf: ''
+links:
+  - icon_pack: fas
+    icon: stamp
+    name: "Artifact Evaluated"
+    url: "https://doi.org/10.5281/zenodo.18768810"
+url_pdf: '/papers/OOPSLA2026.pdf'
 url_code: 'https://zenodo.org/records/17296158'
 url_dataset: 'https://zenodo.org/records/17296158'
 url_poster: ''
