@@ -2,7 +2,7 @@
 title: 超越基准测试：大模型驱动程序规约合成的挑战与实践
 date: 2026-05-24
 publishDate: 2026-05-16
-weight: 5
+weight: 6
 ---
 
 ![photo](photo.png)

@@ -2,7 +2,7 @@
 title: 基于神经符号融合的定理证明自动化技术
 date: 2026-05-24
 publishDate: 2026-05-16
-weight: 5
+weight: 3
 ---
 
 ![photo](photo.jpg)

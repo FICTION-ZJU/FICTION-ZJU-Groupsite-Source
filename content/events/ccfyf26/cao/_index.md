@@ -2,7 +2,7 @@
 title: 定理证明与VST验证工具
 date: 2026-05-24
 publishDate: 2026-05-16
-weight: 5
+weight: 2
 ---
 
 ![photo](photo.png)

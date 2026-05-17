@@ -2,7 +2,7 @@
 title: Unlearnable Data in AI Era：理论，机制与挑战
 date: 2026-05-24
 publishDate: 2026-05-16
-weight: 5
+weight: 7
 ---
 
 ![photo](photo.jpg)

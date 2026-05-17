@@ -2,7 +2,7 @@
 title: 面向并发系统的信息安全精化验证：理论框架与智能体安全展望
 date: 2026-05-24
 publishDate: 2026-05-16
-weight: 5
+weight: 4
 ---
 
 ![photo](photo.jpg)
