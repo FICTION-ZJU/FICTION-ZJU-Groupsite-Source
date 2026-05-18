@@ -1,5 +1,6 @@
 ---
 title: Book Chapter in JPK's Festschrift
+summary: "Our paper appears in the Festschrift dedicated to Joost-Pieter Katoen."
 date: 2024-11-13
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: 'Smart'
   preview_only: false
 ---
-
-Our paper appears in the Festschrift dedicated to Joost-Pieter Katoen.
 
 <!--more-->
 

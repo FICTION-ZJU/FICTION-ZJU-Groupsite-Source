@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by ICSE 2024
+summary: "Our paper has been accepted for presentation at ICSE 2024."
 date: 2023-10-10
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been accepted for presentation at ICSE 2024.
 
 <!--more-->
 

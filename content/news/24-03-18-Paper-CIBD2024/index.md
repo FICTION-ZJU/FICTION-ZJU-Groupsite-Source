@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by CIBD 2024
+summary: "Our extended abstract has been accepted for presentation at CIBD 2024."
 date: 2024-03-18
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our extended abstract has been accepted for presentation at CIBD 2024.
 
 <!--more-->
 

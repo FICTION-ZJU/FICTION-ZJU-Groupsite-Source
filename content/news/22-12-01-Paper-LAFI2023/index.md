@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by LAFI 2023
+summary: "Our extended abstract has been accepted for presentation at LAFI 2023."
 date: 2022-12-01
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our extended abstract has been accepted for presentation at LAFI 2023.
 
 <!--more-->
 

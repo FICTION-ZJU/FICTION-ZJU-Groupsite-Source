@@ -1,5 +1,6 @@
 ---
 title: NSFC Excellent Young Scientists Fund (Overseas) Granted
+summary: "Prof. Dr. Mingshuai Chen is awarded the NSFC Excellent Young Scientists Fund Program (Overseas)."
 date: 2023-10-13
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Prof. Dr. [Mingshuai Chen](/author/mingshuai-chen/) is awarded the NSFC Excellent Young Scientists Fund Program (Overseas).
 
 <!--more-->
 

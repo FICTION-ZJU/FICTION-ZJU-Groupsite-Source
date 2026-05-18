@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by ACL 2025
+summary: "Our paper has been accepted by ACL 2025 Findings."
 date: 2025-05-16
 
 authors: [""]
@@ -12,7 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-Our paper has been accepted by ACL 2025 Findings.
 
 <!--more-->
 

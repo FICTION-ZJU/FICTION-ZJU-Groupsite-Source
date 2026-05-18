@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by ASE 2024
+summary: "Our paper has been accepted for presentation at ASE 2024."
 date: 2024-08-25
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been accepted for presentation at ASE 2024.
 
 <!--more-->
 

@@ -1,5 +1,6 @@
 ---
 title: Book Chapter in MF's Festschrift
+summary: "Our paper appears in the Festschrift dedicated to Martin Fränzle."
 date: 2026-05-11
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: 'Smart'
   preview_only: false
 ---
-
-Our paper appears in the Festschrift dedicated to Martin Fränzle.
 
 <!--more-->
 

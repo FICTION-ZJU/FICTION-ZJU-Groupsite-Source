@@ -1,5 +1,6 @@
 ---
 title: Two Papers Accepted by MICRO 2025
+summary: "Two papers have been accepted for presentation at MICRO 2025."
 date: 2025-07-15
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Two papers have been accepted for presentation at MICRO 2025.
 
 <!--more-->
 

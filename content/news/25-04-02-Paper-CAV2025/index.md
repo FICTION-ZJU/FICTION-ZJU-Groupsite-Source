@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by CAV 2025
+summary: "Our paper has been accepted for presentation at CAV 2025."
 date: 2025-04-02
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been accepted for presentation at CAV 2025.
 
 <!--more-->
 

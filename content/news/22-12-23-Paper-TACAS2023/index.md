@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by TACAS 2023
+summary: "Our paper has been accepted for presentation at TACAS 2023."
 date: 2022-12-23
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been accepted for presentation at TACAS 2023.
 
 <!--more-->
 

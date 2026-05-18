@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by OOPSLA 2026
+summary: "Our paper has been unconditionally accepted for presentation at OOPSLA 2026."
 date: 2025-12-18
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been unconditionally accepted for presentation at OOPSLA 2026.
 
 <!--more-->
 

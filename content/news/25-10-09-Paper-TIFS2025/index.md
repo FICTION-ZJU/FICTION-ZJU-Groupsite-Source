@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by IEEE Trans. Inf. Forensics Secur.
+summary: "Our paper has been accepted by IEEE Transactions on Information Forensics & Security."
 date: 2025-10-09
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: 'Center'
   preview_only: false
 ---
-
-Our paper has been accepted by IEEE Transactions on Information Forensics & Security.
 
 <!--more-->
 

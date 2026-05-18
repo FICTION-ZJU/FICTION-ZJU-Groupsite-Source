@@ -1,5 +1,6 @@
 ---
 title: Aerospace Open Fund Project Proposal Granted
+summary: "Our project proposal has been granted for funding by the China Aerospace Science and Technology Corporation (CASC)."
 date: 2025-07-18
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: 'Bottom'
   preview_only: false
 ---
-
-Our project proposal has been granted for funding by the China Aerospace Science and Technology Corporation (CASC).
 
 <!--more-->
 

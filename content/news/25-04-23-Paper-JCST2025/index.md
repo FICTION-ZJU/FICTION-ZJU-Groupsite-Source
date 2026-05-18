@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by J. Comput. Sci. Technol.
+summary: "Our paper has been accepted by Journal of Computer Science and Technology."
 date: 2025-04-23
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been accepted by Journal of Computer Science and Technology.
 
 <!--more-->
 

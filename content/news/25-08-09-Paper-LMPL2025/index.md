@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by SPLASH (LMPL) 2025
+summary: "Our position paper has been accepted for presentation at SPLASH (LMPL) 2025."
 date: 2025-08-09
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our position paper has been accepted for presentation at SPLASH (LMPL) 2025.
 
 <!--more-->
 

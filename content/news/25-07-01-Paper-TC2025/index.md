@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by IEEE Trans. Comput.
+summary: "Our paper has been accepted by IEEE Transactions on Computers."
 date: 2025-07-01
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been accepted by IEEE Transactions on Computers.
 
 <!--more-->
 

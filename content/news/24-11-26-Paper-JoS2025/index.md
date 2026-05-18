@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by Journal of Software
+summary: "Our paper has been accepted by Journal of Software."
 date: 2024-11-26
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: 'Center'
   preview_only: false
 ---
-
-Our paper has been accepted by Journal of Software.
 
 <!--more-->
 

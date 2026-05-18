@@ -1,5 +1,6 @@
 ---
 title: CCF-Huawei Project Proposal Granted
+summary: "Our project proposal has been granted for funding by the CCF-Huawei Populus Grove Fund."
 date: 2025-06-06
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our project proposal has been granted for funding by the CCF-Huawei Populus Grove Fund.
 
 <!--more-->
 

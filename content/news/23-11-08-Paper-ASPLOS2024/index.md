@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by ASPLOS 2024
+summary: "Our paper has been accepted for presentation at ASPLOS 2024."
 date: 2024-01-15
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been accepted for presentation at ASPLOS 2024.
 
 <!--more-->
 

@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by ACM MM 2024
+summary: "Our paper has been accepted for presentation at ACM MM 2024."
 date: 2024-07-16
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been accepted for presentation at ACM MM 2024.
 
 <!--more-->
 

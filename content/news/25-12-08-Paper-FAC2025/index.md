@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by Form. Asp. Comput.
+summary: "Our paper has been accepted by Formal Aspects of Computing."
 date: 2025-12-08
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been accepted by Formal Aspects of Computing.
 
 <!--more-->
 

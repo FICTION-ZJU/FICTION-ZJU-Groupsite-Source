@@ -1,5 +1,6 @@
 ---
 title: ZJNSF Project Proposal Granted
+summary: "Our project proposal has been granted for funding by the ZJNSF Major Program."
 date: 2023-12-08
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our project proposal has been granted for funding by the ZJNSF Major Program.
 
 <!--more-->
 

@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by Tsinghua Sci. Tech.
+summary: "Our paper has been accepted by Tsinghua Science and Technology."
 date: 2024-05-08
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been accepted by Tsinghua Science and Technology.
 
 <!--more-->
 

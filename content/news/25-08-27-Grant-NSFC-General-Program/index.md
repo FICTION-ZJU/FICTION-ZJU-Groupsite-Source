@@ -1,5 +1,6 @@
 ---
 title: NSFC General Program Granted
+summary: "Our project proposal has been granted for funding by the NSFC General Program."
 date: 2025-08-27
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: 'TopLeft'
   preview_only: false
 ---
-
-Our project proposal has been granted for funding by the NSFC General Program.
 
 <!--more-->
 

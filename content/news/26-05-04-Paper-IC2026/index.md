@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by Inf. Comput.
+summary: "Our paper has been accepted by Information and Computation."
 date: 2026-05-04
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: 'Center'
   preview_only: false
 ---
-
-Our paper has been accepted by Information and Computation.
 
 <!--more-->
 

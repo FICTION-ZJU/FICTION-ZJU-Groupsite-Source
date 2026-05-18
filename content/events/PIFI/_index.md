@@ -1,5 +1,6 @@
 ---
 title: PIFI Day on the Design of AI-Enabled Safety-Critical Systems
+summary: "The CAS President's International Fellowship Initiative (PIFI) is a prestigious international exchange program launched by the Chinese Academy of Sciences to promote global scientific collaboration and academic exchanges. By fostering long-term partnerships, PIFI makes a significant contribution to advancing scientific innovation and addressing global challenges. PIFI DAY is the flagship event of this initiative; it aims to promote discussions on solutions to cutting-edge challenges and shape future research directions via intensive frontier academic presentations and exchanges in a specific research field."
 date: 2025-11-07
 publishDate: 2025-06-17
 showSub: none
@@ -11,8 +12,6 @@ tags: ["Events"]
 #   focal_point: ''
 #   preview_only: false
 ---
-
-The CAS President's International Fellowship Initiative (PIFI) is a prestigious international exchange program launched by the Chinese Academy of Sciences to promote global scientific collaboration and academic exchanges. By fostering long-term partnerships, PIFI makes a significant contribution to advancing scientific innovation and addressing global challenges. PIFI DAY is the flagship event of this initiative; it aims to promote discussions on solutions to cutting-edge challenges and shape future research directions via intensive frontier academic presentations and exchanges in a specific research field.
 
 <!--more-->
 

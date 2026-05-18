@@ -1,5 +1,6 @@
 ---
 title: Paper Accepted by HSCC 2026
+summary: "Our paper has been accepted for presentation at HSCC 2026."
 date: 2026-01-30
 
 authors: [""]
@@ -12,8 +13,6 @@ image:
   focal_point: ''
   preview_only: false
 ---
-
-Our paper has been accepted for presentation at HSCC 2026.
 
 <!--more-->
 

@@ -1,5 +1,6 @@
 ---
 title: Parf Wins the 2nd Prize at ChinaSoft 2024
+summary: "Our tool Parf has been awarded the 2nd prize in the Software Prototype System Competition at ChinaSoft 2024."
 date: 2024-11-17
 
 authors: [""]
@@ -12,9 +13,6 @@ image:
   focal_point: 'Smart'
   preview_only: false
 ---
-
-
-Our tool Parf has been awarded the 2nd prize in the Software Prototype System Competition at ChinaSoft 2024.
 
 <!--more-->
 
