@@ -23,7 +23,7 @@ date: '2026-05-04T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
 #to be updated
-doi: ''
+doi: '10.1016/j.ic.2026.105487'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
