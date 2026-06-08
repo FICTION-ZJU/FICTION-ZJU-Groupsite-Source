@@ -58,7 +58,7 @@ As a member of the prestigious [C9 League](https://en.wikipedia.org/wiki/C9_Leag
 
 Prof. Dr. {{% mention "Mingshuai Chen" %}} is a ZJU100 Young Professor leading the [Formal Verification Group](https://fiction-zju.github.io/) at Zhejiang University. Prior to joining ZJU, he worked as a Postdoctoral Researcher at RWTH Aachen University and a Visiting Researcher at University of Oldenburg, both in Germany. He received the Ph.D. degree in computer science from the Institute of Software, Chinese Academy of Sciences in 2019. His primary research interest lies in formal verification and synthesis, broadly construed in mathematical logic and theoretical computer science.
 
-Mingshuai Chen has published over forty peer-reviewed papers at flagship journals/conferences including Inf. Compt., IEEE Trans. Comput., IEEE Trans. Automat. Contr., OOPSLA, CAV, FM, ASE, ASPLOS, IJGAR, TACAS etc. He serves as the workshop chair of ICFEM 2025, the guest editor of Journal of Software, and co-chair of multiple forums at ChinaSoft 2024. He serves on the reviewer panel of AMS Mathematical Reviews and the program/review committees of CAV 2026, OOPSLA 2026, TACAS 2026/2025, etc. He was the awardee of the [NSFC Excellent Young Scientists Fund Program (Overseas)](/news/23-10-13-grant-nsfc-excellent-young-scientist/) (one of the most prestigious grants for young researchers across China), the [Distinguished Paper Award at ATVA 2018](/publication/chen-atva2018/), [Best Paper Award at FMAC 2019](/publication/an-tacas2020/), and the [CAS-President Special Award in 2019](/publication/chen-thesis2019/) (1st awardee from ISCAS ever since its inception in 1985). His research results have been partially applied in the verification of control programs of the Chinese lunar lander Chang'e-3 and the Chinese high-speed railway system.
+Mingshuai Chen has published over forty peer-reviewed papers at flagship journals/conferences including Inf. Compt., IEEE Trans. Comput., IEEE Trans. Automat. Contr., CAV, FM, OOPSLA, ASE, ASPLOS, IJGAR, TACAS etc. He serves as the associate editor of Frontiers in Computer Science (Theoretical Computer Science), the guest editor of Journal of Software, the program co-chair of QEST+FORMATS 2026, the workshop chair of ICFEM 2025, and co-chair of multiple forums at CCF ChinaSoft 2026/2024. He serves on the reviewer panel of AMS Mathematical Reviews and the program/review committees of CAV 2026, OOPSLA 2026, TACAS 2027/2026/2025, etc. Mingshuai Chen is the recipient of the [NSFC Excellent Young Scientists Fund Program (Overseas)](/news/23-10-13-grant-nsfc-excellent-young-scientist/) (one of the most prestigious grants for young researchers across China), the [Distinguished Paper Award at ATVA 2018](/publication/chen-atva2018/), [Best Paper Award at FMAC 2019](/publication/an-tacas2020/), and the [CAS-President Special Award in 2019](/publication/chen-thesis2019/) (1st awardee from ISCAS ever since its inception in 1985). His research results have been partially applied in the verification of control programs of the Chinese lunar lander Chang'e-3 and the Chinese high-speed railway system.
 
 <i class="fa-solid fa-download"></i> Check out Mingshuai Chen's [CV](/files/CV_Mingshuai%20Chen.pdf) for more detailed information.
 
@@ -77,7 +77,7 @@ Our research group aims to develop **formal reasoning techniques** for programs 
 
 <i class="fa-solid fa-download"></i> Check out Mingshuai Chen's [research statement](/files/Research%20Statement_Mingshuai%20Chen.pdf) for more details on these directions.
 
-[^note-FM]: Formal methods have long been at the heart of computer science; there are 14 [Turing Award Recipients](https://en.wikipedia.org/wiki/Turing_Award#Recipients) -- the most amongst all the sub-fields of computer science.
+[^note-FM]: Formal methods have long been at the heart of computer science; there are 18 [Turing Award Recipients](https://en.wikipedia.org/wiki/Turing_Award#Recipients) -- the most amongst all the sub-fields of computer science.
 
 
 ## What do we expect?
@@ -101,4 +101,4 @@ Our overall goal of teaching and advising is to assist the students in developin
 
 ## How to apply?
 
-<i class="fa-solid fa-envelope"></i> Drop us an [**email**](mailto:m.chen@zju.edu.cn) indicating the position(s) you are interested in while enclosing your **CV** and **transcripts**. Note that the Ph.D. position starting in September, 2025 has been closed.
+<i class="fa-solid fa-envelope"></i> Drop us an [**email**](mailto:m.chen@zju.edu.cn) indicating the position(s) you are interested in while enclosing your **CV** and **transcripts**. Note that the Ph.D. position starting in September, 2026 has been closed.
