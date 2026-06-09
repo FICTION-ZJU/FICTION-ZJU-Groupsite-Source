@@ -101,4 +101,4 @@ Our overall goal of teaching and advising is to assist the students in developin
 
 ## How to apply?
 
-<i class="fa-solid fa-envelope"></i> Drop us an [**email**](mailto:m.chen@zju.edu.cn) indicating the position(s) you are interested in while enclosing your **CV**, **transcripts**, and **recommendation letters** (for Postdoc applicants). Note that the Ph.D. position starting in September, 2026 has been closed.
+<i class="fa-solid fa-envelope"></i> Drop us an [**email**](mailto:m.chen@zju.edu.cn) indicating the position(s) you are interested in while enclosing your **CV** and **transcripts**. For Postdoc applicants, we additionally require (i) a copy of your **PhD thesis**, (ii) a **research statement** describing your research interests, achievements, and how you envision your work aligning with and contributing to the FICTION group, and (iii) 2-3 **recommendation letters**, including one from your PhD advisor. Note that the Ph.D. position starting in September, 2026 has been closed.
