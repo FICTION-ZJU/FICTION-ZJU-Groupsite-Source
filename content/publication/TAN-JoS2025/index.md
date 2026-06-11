@@ -30,7 +30,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Software*'
+publication: '*Journal of Software*, 36'
 publication_short: '*J. Softw.*'
 
 abstract: Current quantum programs are usually represented as quantum circuits, including various quantum gates. If the program contains gates that are represented as unitary matrices, these gates need to be transformed into quantum circuits composed of basic gates. However, current synthesis methods may generate inferior circuits with thousands of gates, which leads to failure when deploying to real-world quantum hardware. Moreover, the process to minimize the number of gate takes weeks or even months when the number of qubits goes to 8. In this work, we propose Fast-USYN that enables fast synthesis from unitary to high-quality quantum circuits. We first introduce an iterative approach that approximates the target unitary by inserting circuit blocks. The minimization of gates is achieved by a look-ahead strategy with a rewarding mechanism to reduce redundant gates. In the acceleration of unitary synthesis, instead of exhaustively enumerating tremendous candidates, we construct the search space by depicting the closure of each candidate. Furthermore, to reduce the overhead of searching the optimal gate parameters, we pack the selected candidates with the target unitary into a uniform circuit so that we can quickly obtain the approximation distance by calculating its expectation on the ground state. Experiments show that Fast-USYN achieves 1.6-2.7 times gate reduction and 3.7-20.6 times speedup for 5-qubit to 8-qubit synthesis, compared to QuCT and QFAST.

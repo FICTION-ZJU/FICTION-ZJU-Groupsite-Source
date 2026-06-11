@@ -34,7 +34,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Transactions on Information Forensics & Security*, xx'
+publication: '*IEEE Transactions on Information Forensics & Security*, 21'
 publication_short: '*IEEE Trans. Inf. Forensics Secur.*'
 
 abstract: "Hardware supply-chain attacks are raising significant security threats to the boot process of multiprocessor systems. In this paper, we investigate critical stages of the multiprocessor system boot process and identify a new, prevalent hardware supply-chain attack surface that can bypass secure boot due to the absence of processor-authentication mechanisms. To defend against such attacks, in this paper, we present PA-Boot, the first formally verified processor-authentication protocol for secure boot in multiprocessor systems. PA-Boot is proved functionally correct and is guaranteed to detect multiple adversarial behaviors, such as processor replacements and man-in-the-middle attacks. The fine-grained formalization of PA-Boot and its fully mechanized security proofs are carried out in the Isabelle/HOL theorem prover with 306 lemmas/theorems and ~7,100 LoC. We further implement in C an instance of PA-Boot. Experiments on the proof-of-concept implementation indicate that PA-Boot can effectively identify boot-process attacks with a considerably minor overhead (4.98% on Linux boot process) and thereby improve the security of multiprocessor systems."
