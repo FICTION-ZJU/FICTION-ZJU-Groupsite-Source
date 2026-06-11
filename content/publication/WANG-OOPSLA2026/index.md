@@ -37,7 +37,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proc. ACM Program. Lang., X(OOPSLA1)*'
+publication: '*Proc. ACM Program. Lang., 10(OOPSLA1)*'
 publication_short: '*Proc. ACM Program. Lang. (OOPSLA)*'
 
 

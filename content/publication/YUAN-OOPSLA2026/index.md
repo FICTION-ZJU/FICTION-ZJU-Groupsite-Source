@@ -9,7 +9,7 @@ authors:
   - Shenghao Yuan
   - Yazhou Tang
   - Tianci Cao
-  - Frederic Besson
+  - Frédéric Besson
   - Jean-Pierre Talpin
   - Mingshuai Chen
 author_notes:
@@ -39,9 +39,11 @@ abstract: 'This paper presents a mechanized formal semantics for the Linux eBPF 
 
 tags:
   - eBPF
+  - OS kernel
   - verification
   - mechanized semantics
   - abstract interpretation
+  - theorem proving
 
 # Summary. An optional shortened abstract.
 summary: ''
