@@ -66,7 +66,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:tangyazhou518@outlook.com
+    link: mailto:tangyazhou@zju.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/ADSWT518
@@ -75,5 +75,4 @@ social:
     link: https://www.linkedin.com/in/yazhoutang/
 ---
 
-I am currently a Master student at the [Formal Verification Group](/). My research areas include **Formal Methods**, **Program Verification**, **Programming Theory/Languages**, and **Theorem Proving**. I also have a strong interest in compilers and mathematical logic.
-
+I am currently a Master's student at the [Formal Verification Group](/), supervised by Dr. [Mingshuai Chen](https://fiction-zju.github.io/author/mingshuai-chen/) and co-advised by Dr. [Shenghao Yuan](https://shenghaoyuan.github.io/). My research areas include **Formal Methods**, **Program Verification**, **Programming Theory/Languages**, and **Theorem Proving**. I also have a strong interest in compilers and mathematical logic.
