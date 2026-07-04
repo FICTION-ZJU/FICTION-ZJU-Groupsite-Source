@@ -1,0 +1,19 @@
+---
+title: Reasoning about Probabilistic Programs on July 6, 2026
+date: 2026-07-06
+publishDate: 2026-07-04
+---
+
+<br/>
+
+**Location:** Meeting Room, 5th Floor, East Building, North Park, Xixi Campus
+
+**Online Meeting:** https://meeting.tencent.com/dm/zJ7FqQzvu99G
+
+| Paper Venue |                                    Title of the Presentation                                    |            Presenter             |  Time Slot  |
+| :---------: | :---------------------------------------------------------------------------------------------: | :------------------------------: | :---------: |
+|     --      |                                         Opening Remarks                                         | {{% mention "Mingshuai Chen" %}} | 14:00-14:15  |
+|     --      |             [Exact Inference for Probabilistic Programs with Loops via PGF semantics](/seminar/26-07-06/Lutz-Klinkenberg/)   |  {{% mention "Lutz Klinkenberg" %}}  | 14:15-15:10 |
+|     --      |             [Upper-Bounding Posterior Distributions of Continuous Probabilistic Programs via Block-Geometric Distribution](/seminar/26-07-06/mingqi/)   |  {{% mention "Mingqi Yang" %}}  | 15:10-16:00 |
+
+<!--more-->
