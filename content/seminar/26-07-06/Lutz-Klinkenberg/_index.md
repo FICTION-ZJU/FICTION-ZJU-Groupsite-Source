@@ -1,6 +1,7 @@
 ---
 title: Exact Inference for Probabilistic Programs with Loops via PGF semantics
 date: 2026-07-06
+publishDate: 2026-07-04
 ---
 
 **Presenter**: {{% mention "Lutz Klinkenberg" %}}
