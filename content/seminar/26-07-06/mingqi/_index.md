@@ -1,5 +1,5 @@
 ---
-title: Upper-Bounding Posterior Distributions of Continuous Probabilistic Programs via Block-Geometric Distribution Envelopes
+title: Upper-Bounding Posterior Distributions of Continuous Probabilistic Programs via Block-Geometric Distribution
 date: 2027-07-06
 ---
 
