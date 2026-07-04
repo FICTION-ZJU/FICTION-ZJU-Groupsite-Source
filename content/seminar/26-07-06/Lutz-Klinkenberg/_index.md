@@ -1,11 +1,11 @@
 ---
-title: Exact Inference for Probabilistic Programs with Loops via PGF semantics
+title: Upper-Bounding Posterior Distributions of Continuous Probabilistic Programs via Block-Geometric Distribution
 date: 2026-07-06
 publishDate: 2026-07-04
 ---
 
-**Presenter**: {{% mention "Lutz Klinkenberg" %}}
+**Presenter**: {{% mention "Mingqi Yang" %}}
 
-**Abstract**: Probabilistic programming languages are a powerful tool for modeling complex, uncertain systems, with applications ranging from AI, machine learning, and robotics to healthcare, social and climate sciences, economics, and psychology. They allow us to succinctly express probabilistic processes, including those involving loops, recursion, and other intricate control structures. Reasoning about such programs, however, especially those with infinite loops or non-terminating behavior, remains a significant challenge. In this talk, I present a new approach based on a denotational probability generating function (PGF) semantics for discrete probabilistic programs with loops. This semantics gives an exact and compact representation of program behavior, enabling exact Bayesian inference where prior methods often had to resort to approximations. Central to this approach is an invariant-based reasoning technique that allows us to systematically derive posterior distributions, along with properties such as expectations and higher-order moments, even for possibly unbounded loops. I will also discuss a syntactic characterization of a class of probabilistic programs whose distributions can be expressed as rational closed-form generating functions. This characterization guarantees that exact inference is preserved within the class, enabling efficient algebraic manipulation and direct computation of quantities like tail bounds and moments. The talk combines theoretical foundations with practical relevance, showing how linking program syntax to the algebraic tractability of its semantics provides a basis for exact reasoning in probabilistic programming.
+**Authors**: Mingqi Yang, Bohan Ma, Shenghua Feng, Mingshuai Chen
 
-**Bio**: Dr. Lutz Klinkenberg is a researcher at RWTH Aachen University, where he completed his PhD in the Software Modeling and Verification Group under Prof. Joost-Pieter Katoen. His doctoral research introduced a denotational probability generating function (PGF) semantics for probabilistic programs with loops, enabling exact Bayesian inference in settings where prior approaches relied on approximation. Alongside his PhD, he served as Science Manager / Managing Director of the ICT Profile Area at RWTH Aachen, coordinating interdisciplinary research activities across the university's computer science and information technology community. He currently works on RWTH:2U, a university-wide initiative on integrating AI into higher education teaching, and remains interested in formal methods, probability theory, and their applications at the intersection of mathematics and computer science.
+**Abstract**: 
