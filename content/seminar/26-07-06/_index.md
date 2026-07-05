@@ -12,8 +12,8 @@ publishDate: 2026-07-04
 
 | Paper Venue |                                    Title of the Presentation                                    |            Presenter             |  Time Slot  |
 | :---------: | :---------------------------------------------------------------------------------------------: | :------------------------------: | :---------: |
-|     --      |                                         Opening Remarks                                         | {{% mention "Mingshuai Chen" %}} | 14:00-14:15  |
-|     --      |             [Exact Inference for Probabilistic Programs with Loops via PGF semantics](/seminar/26-07-06/lutz-klinkenberg/)   |  {{% mention "Lutz Klinkenberg" %}}  | 14:15-15:10 |
-|     --      |             [Upper-Bounding Posterior Distributions of Continuous Probabilistic Programs via Block-Geometric Distribution](/seminar/26-07-06/mingqi/)   |  {{% mention "Mingqi Yang" %}}  | 15:10-16:00 |
+|     --      |                                         Opening Remarks                                         | {{% mention "Mingshuai Chen" %}} | 10:00-10:15  |
+|     --      |             [Exact Inference for Probabilistic Programs with Loops via PGF semantics](/seminar/26-07-06/lutz-klinkenberg/)   |  {{% mention "Lutz Klinkenberg" %}}  | 10:15-11:10 |
+|     --      |             [Upper-Bounding Posterior Distributions of Continuous Probabilistic Programs via Block-Geometric Distribution](/seminar/26-07-06/mingqi/)   |  {{% mention "Mingqi Yang" %}}  | 11:10-12:00 |
 
 <!--more-->
