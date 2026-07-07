@@ -21,13 +21,14 @@ names:
 superuser: false
 
 # Role/position
-role: M.Sc. Candidate
+role: M.Sc. Student
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Master Students
+#  - Researchers
+#  - Master Students
+  - Master Alumni
 
 department:
   - College of Computer Science and Technology
@@ -73,4 +74,4 @@ social:
     link: https://github.com/meowConflict
 ---
 
-I am currently a Master student at the [Formal Verification Group](/) where my research interest falls in the intersection of mathematics and computer science. I develop formal techniques for verifying possibly noisy quantum programs against properties like robustness, safety, and privacy.
+I have been a Master student at the [Formal Verification Group](/), where my research interest lies primarily in constraint solving. I have successfully defended my Master's thesis titled "Probabilistically Approximately Complete Local Search for SMT(NRA): Algorithm and Optimization". I have also co-developed formal techniques for reasoning about stochastic systems and static analyzing C programs.
