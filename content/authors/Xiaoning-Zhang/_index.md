@@ -70,4 +70,4 @@ social:
     link: https://github.com/WeiChenNian
 ---
 
-I am currently studying at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen and am going to be a M.Sc. Candidate in September, 2026. My research interest lies in Theorem Proving and AI-Driven Formal Methods.‌I hope to explore more applications of formal methods in software engineering.
+I am currently working at the [Formal Verification Group](/) under the supervision of Dr. Mingshuai Chen and am going to be a M.Sc. Candidate in September, 2026. My research interest lies in Theorem Proving and AI-Driven Formal Methods.‌ I hope to explore more applications of formal methods in software engineering.
