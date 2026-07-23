@@ -30,7 +30,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Formal Aspects of Computing*, XX'
+publication: '*Formal Aspects of Computing*, 38(3)'
 publication_short: '*Form. Asp. Comput.*'
 
 abstract: The development of formal methods (FM) in China dates back to the early 1950s, when several logicians shifted their research focus from mathematics to theoretical computer science and began advocating the application of mathematical logic to enhance the rigor of computing systems. A significant expansion of FM in China emerged in the 1980s, pioneered by a new generation of talented computer scientists who had visited, studied, and/or worked in Western countries, such as the United Kingdom and the United States, closely tied to China's reform and opening-up policy. A notable milestone was the establishment of the United Nations University International Institute for Software Technology (UNU/IIST) in Macau in the early 1990s, which played a crucial role in advancing FM research and collaboration in China. In recent years, the return of an increasing number of talented young scholars has further strengthened China's FM community, elevating its influence and contribution within the global FM landscape.
@@ -50,7 +50,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: '/papers/FAC2025.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
