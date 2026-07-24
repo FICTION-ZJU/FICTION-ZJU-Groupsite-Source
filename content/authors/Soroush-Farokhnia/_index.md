@@ -47,11 +47,10 @@ highlight_name: false
 
 # The subheadings, such as Interests and Education, will automatically translate depending on the language chosen in `config.yaml`. To customize the subheading text, see the Language page in the docs.
 
-interests:
-  - Automated Algorithms
-  - Optimization and Verification
-  - Blockchain Security
-  - Smart Contract Analysis
+interests: 
+  - Smart Contract Optimization and Formal Verification
+  - Consensus Protocol Analysis
+  - MEV, Fairness, and Protocol-Level Economics
 
 education:
   courses:
@@ -87,6 +86,6 @@ social:
 ---
 
 
-I am a Humboldt Postdoctoral Fellow at the Max Planck Institute for Security and Privacy (MPI-SP), under the supervision of Prof. Clara Schneidewind. I received my Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST), where I was fortunate to be advised by Prof. Amir Goharshady and Prof. Jiasi Shen. I previously earned an MPhil in Computer Science and Engineering from HKUST and a B.Sc. in Computer Engineering from Yazd University.
+I am a Humboldt Postdoctoral Fellow at the Max Planck Institute for Security and Privacy (MPI-SP), under the supervision of Prof. Clara Schneidewind. I received my Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST), where I was fortunate to be advised by Prof. Amir Goharshady and Prof. Jiasi Shen. I previously earned an MPhil in Computer Science and Engineering from HKUST and a B.Sc. in Computer Engineering from Yazd University. In the summer of 2026, I visited Prof. Mingshuai Chen.
 
 My research focuses on designing automated algorithms for optimization and verification problems, primarily in the context of blockchain. For my research, I have received a postdoctoral fellowship from the Alexander von Humboldt Foundation, a research grant from the Ethereum Foundation, and a start-up grant from the Hong Kong Science and Technology Park.
