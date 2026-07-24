@@ -34,10 +34,10 @@ department:
 # Organizations/Affiliations
 organizations:
   - name: Max Planck Institute for Security and Privacy
-    url: ""
+    url: "https://www.mpi-sp.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include automated algorithms for optimization and verification, with a focus on blockchain.
+bio: My research focuses on designing automated algorithms for optimization and verification problems, primarily in the context of blockchain.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "soroush.farokhnia@mpi-sp.org"
@@ -51,6 +51,7 @@ interests:
   - Automated Algorithms
   - Optimization and Verification
   - Blockchain Security
+  - Smart Contract Analysis
 
 education:
   courses:
@@ -68,16 +69,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:soroush.farokhnia@mpi-sp.org
+  - icon: globe
+    icon_pack: fas
+    link: https://soroush.farokhnia.me/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=D81KargAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=D81KargAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sfarokhnia/
   - icon: dblp
     icon_pack: ai
     link: https://dblp.org/pid/351/6062.html
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-2643-120X
 ---
 
 
-I am a Humboldt Postdoctoral Fellow at the Max Planck Institute for Security and Privacy (MPI-SP), working with Prof. Schneidewind. I am currently visiting Prof. Mingshuai Chen at Zhejiang University.
+I am a Humboldt Postdoctoral Fellow at the Max Planck Institute for Security and Privacy (MPI-SP), under the supervision of Prof. Clara Schneidewind. I received my Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST), where I was fortunate to be advised by Prof. Amir Goharshady and Prof. Jiasi Shen. I previously earned an MPhil in Computer Science and Engineering from HKUST and a B.Sc. in Computer Engineering from Yazd University.
+
+My research focuses on designing automated algorithms for optimization and verification problems, primarily in the context of blockchain. For my research, I have received a postdoctoral fellowship from the Alexander von Humboldt Foundation, a research grant from the Ethereum Foundation, and a start-up grant from the Hong Kong Science and Technology Park.
