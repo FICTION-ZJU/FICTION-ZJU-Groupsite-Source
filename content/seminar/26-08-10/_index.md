@@ -12,7 +12,7 @@ publishDate: 2026-08-05
 
 | Paper Venue |                                    Title of the Presentation                                    |            Presenter             |  Time Slot  |
 | :---------: | :---------------------------------------------------------------------------------------------: | :------------------------------: | :---------: |
-|     --      |                                         Opening Remarks                                         | {{% mention "Mingshuai Chen" %}} | 11:00-11:15  |
-|     CAV 2025/2026      |             [Certifying Symbolic Model Checking](/seminar/26-08-10/nils-froleyks/)   |  {{% mention "Nils Froleyks" %}}  | 11:15-12:00 |
+|     --      |                                         Opening Remarks                                         | {{% mention "Mingshuai Chen" %}} | 10:00-10:15  |
+|     CAV 2025/2026      |             [Certifying Symbolic Model Checking](/seminar/26-08-10/nils-froleyks/)   |  {{% mention "Nils Froleyks" %}}  | 10:15-11:00 |
 
 <!--more-->
