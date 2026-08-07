@@ -1,22 +1,20 @@
 ---
-title: 'Formalizing the Linux eBPF Core ISA: A Mechanized Operational Semantics and Its Real-World Applications'
+title: 'Formal Specification of Linux eBPF Instruction Set Architecture in Sail'
 subtitle: ''
 
 featured: true
 draft: false
 
 authors:
-  - Shenghao Yuan
   - Yazhou Tang
-  - Tianci Cao
-  - Frédéric Besson
+  - Shenghao Yuan
   - Jean-Pierre Talpin
   - Mingshuai Chen
-author_notes:
-  - 'equal contribution'
-  - 'equal contribution'
+# author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
-date: '2026-10-03T00:00:00Z'
+date: '2026-09-29T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
 doi: ''
@@ -28,22 +26,21 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proc. ACM Program. Lang., X(OOPSLA2)*'
-publication_short: '*Proc. ACM Program. Lang. (OOPSLA)*'
+publication: 'In *eBPF 2026*'
+publication_short: 'In *eBPF 2026*'
 
 
-abstract: 'This paper presents a mechanized formal semantics for the Linux eBPF instruction set architecture (ISA). We develop a small-step semantics in Rocq that faithfully formalizes all 153 sequential in-kernel instructions of the eBPF ISA. The semantics is fully executable and has been validated against the official Linux eBPF test suite. This extensive testing revealed inconsistencies in our original formalization. Using this semantics, we have designed, implemented, and verified the soundness of the bit-level abstract domain employed by the Linux eBPF verifier. Our semantics also complements the existing Linux eBPF documentation by providing a rigorous formal specification. During the formalization process, we have discovered previously unknown bugs in the Linux eBPF implementation, and developed new verifier optimizations; all of these changes have been upstreamed to the latest version of the Linux kernel.'
+abstract: 'eBPF has become a widely-used mechanism for extending the Linux kernel, and recent standardization efforts have produced the first draft of eBPF ISA standard. However, eBPF still lacks a formal reference specification with rigorous semantics. This paper presents a Sail formalization of Linux eBPF ISA based on Linux 7.1. The model covers all sequential instructions in the Linux eBPF. From the same Sail source, we generate a human-readable formal specification document and Rocq definitions, while we provide a handwritten Rocq driver with a CompCert-based memory adapter to execute the generated semantics.'
 
 tags:
   - eBPF
-  - OS kernel
-  - verification
-  - mechanized semantics
-  - abstract interpretation
-  - theorem proving
+  - Sail
+  - Mechanized Semantics
+  - Formal Specification
+  - Linux Kernel
 
 # Summary. An optional shortened abstract.
 summary: ''
