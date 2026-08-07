@@ -40,6 +40,7 @@ abstract: 'This paper presents a mechanized formal semantics for the Linux eBPF 
 tags:
   - eBPF
   - OS kernel
+  - operating systems
   - verification
   - mechanized semantics
   - abstract interpretation

@@ -2,7 +2,7 @@
 title: 'Formal Specification of Linux eBPF Instruction Set Architecture in Sail'
 subtitle: ''
 
-featured: true
+featured: false
 draft: false
 
 authors:
@@ -17,6 +17,7 @@ authors:
 date: '2026-09-29T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
+#TODO
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -38,9 +39,11 @@ abstract: 'eBPF has become a widely-used mechanism for extending the Linux kerne
 tags:
   - eBPF
   - Sail
-  - Mechanized Semantics
-  - Formal Specification
-  - Linux Kernel
+  - mechanized Semantics
+  - formal specification
+  - OS kernel
+  - verifications
+  - operating systems
 
 # Summary. An optional shortened abstract.
 summary: ''
