@@ -10,7 +10,7 @@ tags: ["Papers"]
 
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Right'
   preview_only: false
 ---
 
