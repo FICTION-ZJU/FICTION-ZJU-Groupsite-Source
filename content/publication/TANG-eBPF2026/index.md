@@ -62,7 +62,7 @@ url_video: ''
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Right'
   preview_only: false
 
 # Associated Projects (optional).
