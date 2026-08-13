@@ -1,6 +1,6 @@
 ---
 title: "Formalizing the Linux eBPF Core ISA: A Mechanized Operational Semantics and Its Real-World Applications"
-date: 2026-08-12
+date: 2026-08-14
 publishDate: 2026-08-13
 ---
 
