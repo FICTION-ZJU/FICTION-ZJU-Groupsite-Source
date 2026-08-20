@@ -1,5 +1,5 @@
 ---
-title: Certifying on Probabilistic Program?
+title: Certifying Probabilistic Model Checking?
 date: 2026-08-14
 publishDate: 2026-08-10
 ---

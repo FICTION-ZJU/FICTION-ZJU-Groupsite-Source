@@ -108,6 +108,8 @@ social:
 
 academic_services:
   editor_committee_chair:
+    - service: Program Co-Chair of ICFEM 2027
+      time: Nov. 2027
     - service: Program Co-Chair of [QEST+FORMATS 2026](https://confest-2026.github.io/qestformats/)
       time: Sep. 2026
     - service: Workshop Chair of [ICFEM 2025](https://icfem2025.github.io/)
