@@ -153,4 +153,6 @@ My primary research interest lies in formal verification and synthesis, broadly 
 
 I have been awarded the [NSFC Excellent Young Scientists Fund Program (Overseas)](/news/23-10-13-grant-nsfc-excellent-young-scientist/) (one of the most prestigious grants for young researchers across China), the [Distinguished Paper Award at ATVA 2018](/publication/chen-atva2018/), [Best Paper Award at FMAC 2019](/publication/an-tacas2020/), and the [CAS-President Special Award in 2019](/publication/chen-thesis2019/) (1st awardee from ISCAS ever since its inception in 1985). My research results have been partially applied in the control-program verification of the Chinese lunar lander Chang’e-3 and CTCS-3 high-speed railway system.
 
+I currently serve part-time as Deputy Director of the Office of Global Engagement at Zhejiang University and as Vice Dean of the Binjiang Institute of Zhejiang University.
+
 <i class="fa-solid fa-download"></i> Check out my [CV](/files/CV_Mingshuai%20Chen.pdf) for more detailed information.
