@@ -85,6 +85,16 @@
         </ol>
       {{ end }}
 
+      {{ if (len $col_proceedings) }}
+        <div class="hr-light"></div>
+        <h4>Conference Proceedings</h4>
+        <ol>
+          {{ range $col_proceedings }}
+            <li>{{ partial "li_citation" . }}</li>
+          {{ end }}
+        </ol>
+      {{ end }}
+
       {{ if (len $col_chapter) }}
         <div class="hr-light"></div>
         <h4>Book Chapters</h4>
@@ -141,16 +151,6 @@
         <h4>Patents</h4>
         <ol>
           {{ range $col_patent }}
-            <li>{{ partial "li_citation" . }}</li>
-          {{ end }}
-        </ol>
-      {{ end }}
-
-      {{ if (len $col_proceedings) }}
-        <div class="hr-light"></div>
-        <h4>Conference Proceedings</h4>
-        <ol>
-          {{ range $col_proceedings }}
             <li>{{ partial "li_citation" . }}</li>
           {{ end }}
         </ol>
