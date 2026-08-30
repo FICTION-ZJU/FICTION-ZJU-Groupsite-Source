@@ -1,6 +1,6 @@
 ---
-title: 'Proceedings of QEST+FORMATS 2026'
-subtitle: 'Quantitative Evaluation of Systems and Formal Modeling and Analysis of Timed Systems'
+title: 'Quantitative Evaluation of Systems and Formal Modeling and Analysis of Timed Systems'
+subtitle: 'Proceedings of QEST+FORMATS 2026'
 
 featured: false
 draft: false
