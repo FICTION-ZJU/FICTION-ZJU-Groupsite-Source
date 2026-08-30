@@ -29,6 +29,7 @@
     {{ $col_chapter := slice }}
     {{ $col_thesis := slice }}
     {{ $col_patent := slice }}
+    {{ $col_proceedings := slice }}
 
     {{ range $item := $query1 }}
       {{with (index .Params.publication_types 0) }}
@@ -48,6 +49,8 @@
           {{ $col_thesis = $col_thesis | append $item }}
         {{ else if eq . "8" }}
           {{ $col_patent = $col_patent | append $item }}
+        {{ else if eq . "9" }}
+          {{ $col_proceedings = $col_proceedings | append $item }}
         {{ end }}
       {{end}}
     {{ end }}
@@ -138,6 +141,16 @@
         <h4>Patents</h4>
         <ol>
           {{ range $col_patent }}
+            <li>{{ partial "li_citation" . }}</li>
+          {{ end }}
+        </ol>
+      {{ end }}
+
+      {{ if (len $col_proceedings) }}
+        <div class="hr-light"></div>
+        <h4>Conference Proceedings</h4>
+        <ol>
+          {{ range $col_proceedings }}
             <li>{{ partial "li_citation" . }}</li>
           {{ end }}
         </ol>

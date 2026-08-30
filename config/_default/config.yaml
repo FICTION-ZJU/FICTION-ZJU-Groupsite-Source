@@ -53,6 +53,7 @@ permalinks:
   #   'Book Chapter',  # 6
   #   'Thesis', # 7
   #   'Pat' # 8
+  #   'Proc' # 9
   # ]
   publication_types: '/publication-type/:slug/'
 disableAliases: true
