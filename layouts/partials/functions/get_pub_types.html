@@ -1,2 +1,13 @@
-{{/* Register new publication type. */}}
-(i18n "pub_proc")
+{{/* Map publication type IDs to their translated display names. */}}
+{{ return (slice
+  (i18n "pub_uncat")
+  (i18n "pub_conf")
+  (i18n "pub_journal")
+  (i18n "pub_preprint")
+  (i18n "pub_report")
+  (i18n "pub_book")
+  (i18n "pub_book_section")
+  (i18n "pub_thesis")
+  (i18n "pub_patent")
+  (i18n "pub_proc")
+) }}
