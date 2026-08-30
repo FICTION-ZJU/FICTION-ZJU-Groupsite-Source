@@ -55,7 +55,7 @@
       {{end}}
     {{ end }}
 
-    {{ $totalLength := add (add (len $col_book) (len $col_thesis)) (add (len $col_chapter) (add (len $col_journal) (add (len $col_conference) (add (len $col_report) (add (len $col_preprint) (len $col_patent) (len $col_proceedings)))))) }}
+    {{ $totalLength := add (add (len $col_book) (len $col_thesis)) (add (len $col_chapter) (add (len $col_journal) (add (len $col_conference) (add (len $col_report) (add (len $col_preprint) (add (len $col_patent) (len $col_proceedings))))))) }}
 
     {{ if $totalLength }}
     <div class="article-widget">
