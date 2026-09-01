@@ -49,6 +49,11 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
+links:
+  - icon_pack: fas
+    icon: stamp
+    name: "Artifact Evaluated"
+    url: "https://zenodo.org/records/21762980"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
