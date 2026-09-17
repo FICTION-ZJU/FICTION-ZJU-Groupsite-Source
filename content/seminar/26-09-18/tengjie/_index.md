@@ -1,0 +1,9 @@
+---
+title: Agent-Driven Verification of Large-Scale Programs
+date: 2026-09-18
+publishDate: 2026-09-16
+---
+
+**Presenter**: {{% mention "Tengjie Lin" %}}
+
+**Abstract**: Fully automated verification of large-scale software and hardware systems has long been considered a “Holy Grail” of formal methods. Although modular contract-based reasoning enables deductive verification to scale to large systems, constructing formal specifications remains a fundamental bottleneck: it still relies heavily on human experts and accounts for much of the cost of industrial verification. This talk presents our recent work on using large language models and agentic techniques to automate specification synthesis and, ultimately, the verification of large programs for the absence of runtime errors. First, **Preguss** is an LLM-driven framework for fine-grained formal specification generation and refinement. By using potential runtime errors to guide specification synthesis, Preguss establishes an effective collaboration between static analysis and deductive verification, enabling the nearly fully automated verification of real-world C programs with thousands of lines of code for the first time. Second, **Verdict** is a parallel multi-agent framework for modular verification. Through assumption-based contract synthesis and bidirectional interprocedural conflict resolution, Verdict overcomes the scalability limitations of conventional bottom-up verification and, for the first time, nearly fully automatically verifies a 20,000-line X.509 certificate parser within hours—a task that previously required months of expert effort. Finally, **CCV (C Code Verification)** integrates an agentic workflow with human review, natural-language weakest-precondition reasoning, and VST/Rocq-based formal verification. Together, these results demonstrate that agent-driven modular specification synthesis offers a practical path toward automated verification of large-scale programs.
