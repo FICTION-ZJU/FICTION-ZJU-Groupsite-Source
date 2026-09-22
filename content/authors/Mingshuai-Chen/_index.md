@@ -128,7 +128,7 @@ academic_services:
     - service: Member of CCF Technical Committee on Theoretical Computer Science
     - service: Reviewer Panel of [Mathematical Reviews](https://www.ams.org/publications/math-reviews/math-reviews)
     - service: "Program/Review Committee Member of
-      [CAV](https://i-cav.org/) [2027](https://conferences.i-cav.org/2027/)[2026](https://conferences.i-cav.org/2026/),
+      [CAV](https://i-cav.org/) [2027](https://conferences.i-cav.org/2027/)/[2026](https://conferences.i-cav.org/2026/),
       [TACAS](https://etaps.org/about/tacas/) [2027](https://etaps.org/2027/conferences/tacas/)/[2026](https://etaps.org/2026/conferences/tacas/)/[2025](https://etaps.org/2025/conferences/tacas/),
       [OOPSLA 2026](https://conf.researchr.org/track/splash-2026/splash-2026-research-papers),
       [FSTTCS](https://www.fsttcs.org.in/) 2026,
