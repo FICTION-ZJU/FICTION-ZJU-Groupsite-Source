@@ -17,8 +17,7 @@ authors:
 date: '2026-09-29T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-#TODO
-doi: ''
+doi: '10.1145/3837779.38381'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -48,7 +47,7 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
-url_pdf: ''
+url_pdf: '/papers/eBPF2026.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
