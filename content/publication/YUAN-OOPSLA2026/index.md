@@ -19,7 +19,7 @@ author_notes:
 date: '2026-10-03T00:00:00Z'
 #lastmod: 2021-10-07T18:49:05-06:00
 
-doi: ''
+doi: '10.1145/3839449'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -31,7 +31,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proc. ACM Program. Lang., X(OOPSLA2)*'
+publication: '*Proc. ACM Program. Lang., 10(OOPSLA2)*'
 publication_short: '*Proc. ACM Program. Lang. (OOPSLA)*'
 
 
@@ -54,7 +54,7 @@ links:
     icon: stamp
     name: "Artifact Evaluated"
     url: "https://zenodo.org/records/21762980"
-url_pdf: ''
+url_pdf: '/papers/OOPSLA2026-b.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

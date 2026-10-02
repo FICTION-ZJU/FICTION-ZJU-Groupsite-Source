@@ -60,9 +60,9 @@ links:
     icon: stamp
     name: "Artifact Evaluated"
     url: "https://doi.org/10.5281/zenodo.18768810"
-url_pdf: '/papers/OOPSLA2026.pdf'
+url_pdf: '/papers/OOPSLA2026-a.pdf'
 url_code: 'https://zenodo.org/records/17296158'
-url_dataset: 'https://zenodo.org/records/17296158'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
