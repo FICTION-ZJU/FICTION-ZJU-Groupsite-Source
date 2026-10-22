@@ -38,7 +38,7 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include formal methods and program analysis.
+bio: My research interests include LLMs for formal methods and reinforcement learning.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -49,13 +49,9 @@ highlight_name: false
 # The subheadings, such as Interests and Education, will automatically translate depending on the language chosen in `config.yaml`. To customize the subheading text, see the Language page in the docs.
 
 interests:
-  - Probabilistic Program Synthesis
-  - Programming Theory/Languages
-  - Static Analysis
-  - Formal Methods
-  - Datalog
-
-
+  - LLMs for Formal Methods
+  - Reinforcement Learning
+  - Large Language Models
 
 education:
   courses:
@@ -69,12 +65,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:tengjiecs@gmail.com
+    link: mailto:tengjie.lin@zju.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/IOExceptionOI
 ---
 
-I am affiliated with the [Formal Verification Group](), and my main research areas include **Probabilistic Program Synthesis**, **Program Analysis**, **Formal Methods**, and **Programming Languages**. I also have a strong interest in Static Analysis, Datalog, Automated Verification, and Programming Theory.
-
-If you'd like to know more, feel free to contact me via email at [tengjiecs@gmail.com](mailto:tengjiecs@gmail.com), or visit my GitHub profile: https://github.com/IOExceptionOI.
+I am currently a Master's student at the [Formal Verification Group](/), supervised by Dr. [Mingshuai Chen](/author/mingshuai-chen/). My research focuses on **LLMs for formal methods**, e.g., LLM-driven specification synthesis for verifying large-scale programs, and on **reinforcement learning** for large language models.
