@@ -10,7 +10,7 @@ tags: ["Awards"]
 
 image:
   caption: ''
-  focal_point: 'Center'
+  focal_point: 'Bottom'
   preview_only: false
 ---
 
