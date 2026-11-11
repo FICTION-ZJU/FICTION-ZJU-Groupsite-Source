@@ -125,6 +125,7 @@ academic_services:
   committee_member:
     - service: Senior Member of the [China Computer Federation (CCF)](https://www.ccf.org.cn/en/)
     - service: Executive Member of CCF Technical Committee on Formal Methods
+    - service: Executive Member of CCF Technical Committee on Systems Software
     - service: Member of CCF Technical Committee on Theoretical Computer Science
     - service: Reviewer Panel of [Mathematical Reviews](https://www.ams.org/publications/math-reviews/math-reviews)
     - service: "Program/Review Committee Member of
