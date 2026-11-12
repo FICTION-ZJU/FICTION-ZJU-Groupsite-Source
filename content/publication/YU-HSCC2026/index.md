@@ -54,7 +54,7 @@ tags:
 # Summary. An optional shortened abstract.
 summary: ''
 
-url_pdf: ''
+url_pdf: '/papers/HSCC2026.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
