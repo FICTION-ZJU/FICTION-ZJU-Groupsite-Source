@@ -35,7 +35,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Information and Computation*, XX'
+publication: '*Information and Computation*, 312'
 publication_short: '*Inf. Comput.*'
 
 abstract: We investigate the termination problem of a family of multi-path polynomial programs (MPPs) over a general field $\mathbb{K}$, in which all assignments to program variables are polynomials, and test conditions of loops and conditional statements are polynomial equalities. We show that the set of non-terminating inputs (NTI) of such a program is algorithmically computable, which in turn yields the decidability of its termination on a given input -- and that on a semi-algebraic set of inputs when $\mathbb{K}$ is $\mathbb{R}$. To the best of our knowledge, the considered family of MPPs is hitherto the largest fragment of nonlinear programs for which termination is decidable. We present an explicit recursive function, essentially of Ackermannian growth, to compute the maximal length of ascending chains of polynomial ideals under a control function, thereby providing a complete answer to the questions raised by Seidenberg in 1971. This maximal length facilitates a precise complexity analysis of our algorithms for computing the NTI and deciding termination of MPPs. We further extend our approach to programs with polynomial guarded commands and show how an incomplete procedure for MPPs with inequality guards can be obtained. Finally, we show that our decidability result gives rise to a complete method for computing all polynomial equality invariants (of a fixed degree) of polynomial programs.
@@ -53,7 +53,7 @@ summary: ''
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: '/papers/INFCOMP2026.pdf'
 url_code: 'https://github.com/Chenms404/MPPs'
 url_dataset: ''
 url_poster: ''
